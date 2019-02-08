@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+      img{
+        width: 50px;
+        height: 50px
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="container-fluid table-responsive">
+      <table class="table table-hover table-light table-bordered " id="murat">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">İl</th>
+          <th scope="col">Plaka Kodu</th>
+          <th scope="col">Alan Kodu</th>
+          <th scope="col">Nüfus</th>
+          <th scope="col">Bölge</th>
+          <th scope="col">Yüzölçümü</th>
+          <th scope="col">Erkek Nüfus</th>
+          <th scope="col">Kadın Nüfus</th>
+          <th scope="col">Nüfus Yüzdesi</th>
+          <th scope="col">İlçe Sayısı</th>
+        </tr>
+      </thead>
+    </table>
+    </div>
+
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script>
+      $(document).ready(function(){
+            $.getJSON('il-ilce.json', function(data){
+                    $.each(data,function(key, veri){
+                          $('#murat').append('<tr><td>'+veri.il_adi+'</td><td>'+veri.plaka_kodu+'</td><td>'+veri.alan_kodu+'</td><td>'+veri.nufus+'</td><td>'+veri.bolge+'</td><td>'+veri.yuzolcumu+'</td><td>'+veri.erkek_nufus+'</td><td>'+veri.kadin_nufus+'</td><td>'+veri.nufus_yuzdesi_genel+'</td><td>'+veri.ilceler.length+'</td>');
+                    });
+
+                  });
+              })
+  </script>
+    </body>
+  </html>
