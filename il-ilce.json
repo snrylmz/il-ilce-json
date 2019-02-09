@@ -475,5 +475,351 @@
       }
     ],
     "kisa_bilgi": "7500 yıllık bir geçmişe sahip, ülkemizin önemli kültür, turizm ve tarih merkezlerinden biri olan şehir, bilindiği gibi misket elmasıyla meşhur. Sert, küçük ve tatlı olan, kendine has bir koku ve lezzete sahip bu elma oldukça dayanıklıdır."
+  },
+
+  {
+    "il_adi": "Ankara",
+    "plaka_kodu": 6,
+    "alan_kodu": "312",
+    "nufus": "5.503.985",
+    "bolge": "İç Anadolu",
+    "yuzolcumu": "25.632",
+    "erkek_nufus_yuzde": "49,58%",
+    "erkek_nufus": "2.728.900",
+    "kadin_nufus_yuzde":"50,42%",
+    "kadin_nufus":"2.775.085",
+    "nufus_yuzdesi_genel": "6,71%",
+    "ilceler": [
+      {
+          "ilce_adi": "Çankaya",
+          "nufus": "920.890",
+          "erkek_nufus": "442.513",
+          "kadin_nufus": "478.377",
+          "yuzolcumu": "483"
+      },
+      {
+          "ilce_adi": "Keçiören",
+          "nufus": "909.787",
+          "erkek_nufus": "446.190",
+          "kadin_nufus": "463.597",
+          "yuzolcumu": "159"
+      },
+      {
+          "ilce_adi": "Yenimahalle",
+          "nufus": "663.580",
+          "erkek_nufus": "323.562",
+          "kadin_nufus": "340.018",
+          "yuzolcumu": "219"
+      },
+      {
+          "ilce_adi": "Mamak",
+          "nufus": "647.252",
+          "erkek_nufus": "323.710",
+          "kadin_nufus": "323.542",
+          "yuzolcumu": "321"
+      },
+      {
+          "ilce_adi": "Etimesgut",
+          "nufus": "570.727",
+          "erkek_nufus": "285.797",
+          "kadin_nufus": "284.930",
+          "yuzolcumu": "273"
+      },
+      {
+          "ilce_adi": "Sincan",
+          "nufus": "518.893",
+          "erkek_nufus": "264.482",
+          "kadin_nufus": "254.411",
+          "yuzolcumu": "880"
+      },
+      {
+          "ilce_adi": "Altındağ",
+          "nufus": "370.024",
+          "erkek_nufus": "186.440",
+          "kadin_nufus": "183.584",
+          "yuzolcumu": "123"
+      },
+      {
+          "ilce_adi": "Pursaklar",
+          "nufus": "143.055",
+          "erkek_nufus": "71.571",
+          "kadin_nufus": "71.484",
+          "yuzolcumu": "169"
+      },
+      {
+          "ilce_adi": "Gölbaşı",
+          "nufus": "134.378",
+          "erkek_nufus": "67.726",
+          "kadin_nufus": "66.652",
+          "yuzolcumu": "1.364"
+      },
+      {
+          "ilce_adi": "Polatlı",
+          "nufus": "122.287",
+          "erkek_nufus": "61.597",
+          "kadin_nufus": "60.690",
+          "yuzolcumu": "3.618"
+      },
+      {
+          "ilce_adi": "Çubuk",
+          "nufus": "89.046",
+          "erkek_nufus": "44.498",
+          "kadin_nufus": "44.548",
+          "yuzolcumu": "1.198"
+      },
+      {
+          "ilce_adi": "Kahramankazan",
+          "nufus": "53.522",
+          "erkek_nufus": "27.319",
+          "kadin_nufus": "26.203",
+          "yuzolcumu": "547"
+      },
+      {
+          "ilce_adi": "Beypazarı",
+          "nufus": "48.274",
+          "erkek_nufus": "24.062",
+          "kadin_nufus": "24.212",
+          "yuzolcumu": "1.697"
+      },
+      {
+          "ilce_adi": "Haymana",
+          "nufus": "45.931",
+          "erkek_nufus": "23.866",
+          "kadin_nufus": "22.065",
+          "yuzolcumu": "2.164"
+      },
+      {
+          "ilce_adi": "Elmadağ",
+          "nufus": "45.349",
+          "erkek_nufus": "23.062",
+          "kadin_nufus": "22.287",
+          "yuzolcumu": "647"
+      },
+      {
+          "ilce_adi": "Akyurt",
+          "nufus": "34.588",
+          "erkek_nufus": "17.555",
+          "kadin_nufus": "17.033",
+          "yuzolcumu": "369"
+      },
+      {
+          "ilce_adi": "Şereflikoçhisar",
+          "nufus": "34.202",
+          "erkek_nufus": "17.353",
+          "kadin_nufus": "16.849",
+          "yuzolcumu": "2.155"
+      },
+      {
+          "ilce_adi": "Bala",
+          "nufus": "33.644",
+          "erkek_nufus": "17.446",
+          "kadin_nufus": "16.198",
+          "yuzolcumu": "1.851"
+      },
+      {
+          "ilce_adi": "Kızılcahamam",
+          "nufus": "32.647",
+          "erkek_nufus": "16.531",
+          "kadin_nufus": "16.116",
+          "yuzolcumu": "1.623"
+      },
+      {
+          "ilce_adi": "Nallıhan",
+          "nufus": "28.091",
+          "erkek_nufus": "13.888",
+          "kadin_nufus": "14.203",
+          "yuzolcumu": "2.079"
+      },
+      {
+          "ilce_adi": "Ayaş",
+          "nufus": "15.540",
+          "erkek_nufus": "8.101",
+          "kadin_nufus": "7.439",
+          "yuzolcumu": "1.041"
+      },
+      {
+          "ilce_adi": "Çamlıdere",
+          "nufus": "15.148",
+          "erkek_nufus": "7.920",
+          "kadin_nufus": "7.228",
+          "yuzolcumu": "782"
+      },
+      {
+          "ilce_adi": "Kalecik",
+          "nufus": "13.450",
+          "erkek_nufus": "6.956",
+          "kadin_nufus": "6.494",
+          "yuzolcumu": "1.110"
+      },
+      {
+          "ilce_adi": "Güdül",
+          "nufus": "10.074",
+          "erkek_nufus": "4.979",
+          "kadin_nufus": "5.095",
+          "yuzolcumu": "540"
+      },
+      {
+          "ilce_adi": "Evren",
+          "nufus": "3.606",
+          "erkek_nufus": "1.776",
+          "kadin_nufus": "1.830",
+          "yuzolcumu": "222"
+      }
+    ],
+    "kisa_bilgi": "Bolu, Çankırı, Kırıkkale, Kırşehir, Aksaray, Konya ve Eskişehir illeri ile çevrili ve Türkiye'nin başkenti Ankara, Cumhuriyetin kuruluşundan bu yana hızla gelişme göstermiştir. Şehrin amblemi, Hitit uygarlığının da simgesi olan Hitit Güneş Kursu'dur."
+  },
+
+
+
+  {
+    "il_adi": "Antalya",
+    "plaka_kodu": 7,
+    "alan_kodu": "242",
+    "nufus": "2.426.356",
+    "bolge": "Akdeniz",
+    "yuzolcumu": "20.177",
+    "erkek_nufus_yuzde": "50,37%",
+    "erkek_nufus": "1.222.086",
+    "kadin_nufus_yuzde":"49,63%",
+    "kadin_nufus":"1.204.270",
+    "nufus_yuzdesi_genel": "2,96%",
+    "ilceler": [
+      {
+          "ilce_adi": "Kepez",
+          "nufus": "531.619",
+          "erkek_nufus": "270.248",
+          "kadin_nufus": "261.371",
+          "yuzolcumu": "292"
+      },
+      {
+          "ilce_adi": "Muratpaşa",
+          "nufus": "495.688",
+          "erkek_nufus": "242.924",
+          "kadin_nufus": "252.764",
+          "yuzolcumu": "96"
+      },
+      {
+          "ilce_adi": "Alanya",
+          "nufus": "312.319",
+          "erkek_nufus": "159.308",
+          "kadin_nufus": "153.011",
+          "yuzolcumu": "1.577"
+      },
+      {
+          "ilce_adi": "Manavgat",
+          "nufus": "230.597",
+          "erkek_nufus": "118.336",
+          "kadin_nufus": "112.261",
+          "yuzolcumu": "2.351"
+      },
+      {
+          "ilce_adi": "Konyaaltı",
+          "nufus": "182.112",
+          "erkek_nufus": "87.688",
+          "kadin_nufus": "94.424",
+          "yuzolcumu": "546"
+      },
+      {
+          "ilce_adi": "Serik",
+          "nufus": "124.335",
+          "erkek_nufus": "63.703",
+          "kadin_nufus": "60.632",
+          "yuzolcumu": "1.263"
+      },
+      {
+          "ilce_adi": "Aksu",
+          "nufus": "71.643",
+          "erkek_nufus": "36.495",
+          "kadin_nufus": "35.148",
+          "yuzolcumu": "406"
+      },
+      {
+          "ilce_adi": "Kumluca",
+          "nufus": "68.610",
+          "erkek_nufus": "34.659",
+          "kadin_nufus": "33.951",
+          "yuzolcumu": "1.225"
+      },
+      {
+          "ilce_adi": "Döşemealtı",
+          "nufus": "63.186",
+          "erkek_nufus": "32.288",
+          "kadin_nufus": "30.898",
+          "yuzolcumu": "687"
+      },
+      {
+          "ilce_adi": "Kaş",
+          "nufus": "58.600",
+          "erkek_nufus": "30.185",
+          "kadin_nufus": "28.415",
+          "yuzolcumu": "1.750"
+      },
+      {
+          "ilce_adi": "Korkuteli",
+          "nufus": "55.712",
+          "erkek_nufus": "27.989",
+          "kadin_nufus": "27.723",
+          "yuzolcumu": "2.433"
+      },
+      {
+          "ilce_adi": "Gazipaşa",
+          "nufus": "50.003",
+          "erkek_nufus": "25.306",
+          "kadin_nufus": "24.697",
+          "yuzolcumu": "1.111"
+      },
+      {
+          "ilce_adi": " Finike",
+          "nufus": "48.131",
+          "erkek_nufus": "24.263",
+          "kadin_nufus": "23.868",
+          "yuzolcumu": "768"
+      },
+      {
+          "ilce_adi": "Kemer",
+          "nufus": "43.226",
+          "erkek_nufus": "22.800",
+          "kadin_nufus": "20.426",
+          "yuzolcumu": "412"
+      },
+      {
+          "ilce_adi": "Elmalı",
+          "nufus": "39.254",
+          "erkek_nufus": "19.782",
+          "kadin_nufus": "19.472",
+          "yuzolcumu": "1.433"
+      },
+      {
+          "ilce_adi": "Demre",
+          "nufus": "25.893",
+          "erkek_nufus": "13.286",
+          "kadin_nufus": "12.607",
+          "yuzolcumu": "329"
+      },
+      {
+          "ilce_adi": "Akseki",
+          "nufus": "13.084",
+          "erkek_nufus": "6.682",
+          "kadin_nufus": "6.402",
+          "yuzolcumu": "bilinmiyor"
+      },
+      {
+          "ilce_adi": "Gündoğmuş",
+          "nufus": "8.726",
+          "erkek_nufus": "4.300",
+          "kadin_nufus": "4.426",
+          "yuzolcumu": "1.175"
+      },
+      {
+          "ilce_adi": "İbradi",
+          "nufus": "3.618",
+          "erkek_nufus": "1.844",
+          "kadin_nufus": "1.774",
+          "yuzolcumu": "778"
+      }
+
+    ],
+    "kisa_bilgi": "Bolu, Çankırı, Kırıkkale, Kırşehir, Aksaray, Konya ve Eskişehir illeri ile çevrili ve Türkiye'nin başkenti Ankara, Cumhuriyetin kuruluşundan bu yana hızla gelişme göstermiştir. Şehrin amblemi, Hitit uygarlığının da simgesi olan Hitit Güneş Kursu'dur."
   }
+
 ]
