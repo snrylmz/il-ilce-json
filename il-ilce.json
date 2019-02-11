@@ -1,7 +1,7 @@
 [
   {
     "il_adi": "Adana",
-    "plaka_kodu": 1,
+    "plaka_kodu":" 01",
     "alan_kodu": "0322",
     "nufus": "2.220.125",
     "bolge": "Akdeniz",
@@ -123,7 +123,7 @@
 
   {
     "il_adi": "Adıyaman",
-    "plaka_kodu": 2,
+    "plaka_kodu": "02",
     "alan_kodu": "416",
     "nufus": "624.513",
     "bolge": "Güneydoğu Anadolu",
@@ -203,7 +203,7 @@
 
   {
     "il_adi": "Afyonkarahisar",
-    "plaka_kodu": 3,
+    "plaka_kodu": "03",
     "alan_kodu": "272",
     "nufus": "624.513",
     "bolge": "Ege",
@@ -347,7 +347,7 @@
 
   {
     "il_adi": "Ağrı",
-    "plaka_kodu": 4,
+    "plaka_kodu": "04",
     "alan_kodu": "472",
     "nufus": "539.657",
     "bolge": "Doğu Anadolu",
@@ -420,7 +420,7 @@
 
   {
     "il_adi": "Amasya",
-    "plaka_kodu": 5,
+    "plaka_kodu": "05",
     "alan_kodu": "358",
     "nufus": "337.508",
     "bolge": "Karadeniz",
@@ -479,7 +479,7 @@
 
   {
     "il_adi": "Ankara",
-    "plaka_kodu": 6,
+    "plaka_kodu": "06",
     "alan_kodu": "312",
     "nufus": "5.503.985",
     "bolge": "İç Anadolu",
@@ -673,7 +673,7 @@
 
   {
     "il_adi": "Antalya",
-    "plaka_kodu": 7,
+    "plaka_kodu": "07",
     "alan_kodu": "242",
     "nufus": "2.426.356",
     "bolge": "Akdeniz",
@@ -819,7 +819,475 @@
       }
 
     ],
-    "kisa_bilgi": "Bolu, Çankırı, Kırıkkale, Kırşehir, Aksaray, Konya ve Eskişehir illeri ile çevrili ve Türkiye'nin başkenti Ankara, Cumhuriyetin kuruluşundan bu yana hızla gelişme göstermiştir. Şehrin amblemi, Hitit uygarlığının da simgesi olan Hitit Güneş Kursu'dur."
+    "kisa_bilgi": "Akdeniz bölgesinin batısında ve Antalya Körfezi ile Batı Toroslar arasında yer alan Antalya, özellikle turizmin etkisiyle hızla nüfus alan ve gelişen, en güzel şehirlerimizden biridir."
+  },
+
+
+  {
+    "il_adi": "Artvin",
+    "plaka_kodu": "08",
+    "alan_kodu": "466",
+    "nufus": "174.010",
+    "bolge": "Karadeniz",
+    "yuzolcumu": "7.393",
+    "erkek_nufus_yuzde": "50,41%",
+    "erkek_nufus": "87.715",
+    "kadin_nufus_yuzde":"49,59%",
+    "kadin_nufus":"86.295",
+    "nufus_yuzdesi_genel": "0,21%",
+    "ilceler": [
+      {
+          "ilce_adi": "Merkez",
+          "nufus": "35.081",
+          "erkek_nufus": "17.435",
+          "kadin_nufus": "17.646",
+          "yuzolcumu": "1.141"
+      },
+      {
+          "ilce_adi": "Hopa",
+          "nufus": "25.775",
+          "erkek_nufus": "12.831",
+          "kadin_nufus": "12.944",
+          "yuzolcumu": "130"
+      },
+      {
+          "ilce_adi": "Borçka",
+          "nufus": "25.500",
+          "erkek_nufus": "13.096",
+          "kadin_nufus": "12.404",
+          "yuzolcumu": "805"
+      },
+      {
+          "ilce_adi": "Arhavi",
+          "nufus": "21.003",
+          "erkek_nufus": "10.469",
+          "kadin_nufus": "10.534",
+          "yuzolcumu": "407"
+      },
+      {
+          "ilce_adi": "Yusufeli",
+          "nufus": "20.794",
+          "erkek_nufus": "10.472",
+          "kadin_nufus": "10.322",
+          "yuzolcumu": "2.261"
+      },
+      {
+          "ilce_adi": "Şavşat",
+          "nufus": "17.606",
+          "erkek_nufus": "8.873",
+          "kadin_nufus": "8.733",
+          "yuzolcumu": "1316"
+      },
+      {
+          "ilce_adi": "Aksu",
+          "nufus": "71.643",
+          "erkek_nufus": "36.495",
+          "kadin_nufus": "35.148",
+          "yuzolcumu": "406"
+      },
+      {
+          "ilce_adi": "Kumluca",
+          "nufus": "68.610",
+          "erkek_nufus": "34.659",
+          "kadin_nufus": "33.951",
+          "yuzolcumu": "1.225"
+      },
+      {
+          "ilce_adi": "Ardanuç",
+          "nufus": "12.056",
+          "erkek_nufus": "6.228",
+          "kadin_nufus": "5.828",
+          "yuzolcumu": "958"
+      },
+      {
+          "ilce_adi": "Kemalpaşa",
+          "nufus": "9.537",
+          "erkek_nufus": "4.842",
+          "kadin_nufus": "4.695",
+          "yuzolcumu": "74"
+      },
+      {
+          "ilce_adi": "Murgul",
+          "nufus": "6.658",
+          "erkek_nufus": "3.469",
+          "kadin_nufus": "3.189",
+          "yuzolcumu": "301"
+      }
+
+    ],
+    "kisa_bilgi": "Ülkemizin Gürcistan ile sınırında bulunan, Doğu Karadeniz bölümündeki bu yeşil şehir, kültürel olarak rengarenk. Nüfus Hemşinliler, Gürcüler, Lazlar ile Ahıska ve Kıpçak Türklerinden meydana geliyor."
+  },
+
+  {
+    "il_adi": "Aydın",
+    "plaka_kodu": "09",
+    "alan_kodu": "256",
+    "nufus": "1.097.746",
+    "bolge": "Ege",
+    "yuzolcumu": "8.116",
+    "erkek_nufus_yuzde": "49,75%",
+    "erkek_nufus": "546.092",
+    "kadin_nufus_yuzde":"50,25%",
+    "kadin_nufus":"551.654",
+    "nufus_yuzdesi_genel": "1,34%",
+    "ilceler": [
+      {
+          "ilce_adi": "Efeler",
+          "nufus": "289.248",
+          "erkek_nufus": "143.459",
+          "kadin_nufus": "145.789",
+          "yuzolcumu": "624"
+      },
+      {
+          "ilce_adi": "Nazilli",
+          "nufus": "156.748",
+          "erkek_nufus": "77.124",
+          "kadin_nufus": "79.624",
+          "yuzolcumu": "691"
+      },
+      {
+          "ilce_adi": "Söke",
+          "nufus": "120.217",
+          "erkek_nufus": "60.225",
+          "kadin_nufus": "59.992",
+          "yuzolcumu": "1.064"
+      },
+      {
+          "ilce_adi": "Kuşadası",
+          "nufus": "113.580",
+          "erkek_nufus": "56.701",
+          "kadin_nufus": "56.879",
+          "yuzolcumu": "265"
+      },
+      {
+          "ilce_adi": "Didim",
+          "nufus": "85.055",
+          "erkek_nufus": "43.293",
+          "kadin_nufus": "41.762",
+          "yuzolcumu": "424"
+      },
+      {
+          "ilce_adi": "İncirliova",
+          "nufus": "51.526",
+          "erkek_nufus": "25.708",
+          "kadin_nufus": "25.818",
+          "yuzolcumu": "188"
+      },
+      {
+          "ilce_adi": "Çine",
+          "nufus": "49.760",
+          "erkek_nufus": "24.686",
+          "kadin_nufus": "25.074",
+          "yuzolcumu": "820"
+      },
+      {
+          "ilce_adi": "Germencik",
+          "nufus": "43.913",
+          "erkek_nufus": "21.761",
+          "kadin_nufus": "22.152",
+          "yuzolcumu": "394"
+      },
+      {
+          "ilce_adi": "Bozdoğan",
+          "nufus": "33.843",
+          "erkek_nufus": "16.964",
+          "kadin_nufus": "16.879",
+          "yuzolcumu": "859"
+      },
+      {
+          "ilce_adi": "Köşk",
+          "nufus": "27.517",
+          "erkek_nufus": "13.930",
+          "kadin_nufus": "13.587",
+          "yuzolcumu": "187"
+      },
+      {
+          "ilce_adi": "Kuyucak",
+          "nufus": "26.975",
+          "erkek_nufus": "13.376",
+          "kadin_nufus": "13.599",
+          "yuzolcumu": "544"
+      },
+      {
+          "ilce_adi": "Koçarlı",
+          "nufus": "23.716",
+          "erkek_nufus": "11.773",
+          "kadin_nufus": "11.943",
+          "yuzolcumu": "455"
+      },
+      {
+          "ilce_adi": "Sultanhisar",
+          "nufus": "20.533",
+          "erkek_nufus": "9.977",
+          "kadin_nufus": "10.556",
+          "yuzolcumu": "220"
+      },
+      {
+          "ilce_adi": "Karacasu",
+          "nufus": "18.706",
+          "erkek_nufus": "9.242",
+          "kadin_nufus": "9.464",
+          "yuzolcumu": "727"
+      },
+      {
+          "ilce_adi": "Buharkent",
+          "nufus": "12.688",
+          "erkek_nufus": "6.279",
+          "kadin_nufus": "6.409",
+          "yuzolcumu": "124"
+      },
+      {
+          "ilce_adi": "Yenipazar",
+          "nufus": "12.608",
+          "erkek_nufus": "6.075",
+          "kadin_nufus": "6.533",
+          "yuzolcumu": "245"
+      },
+      {
+          "ilce_adi": "Karpuzlu",
+          "nufus": "11.113",
+          "erkek_nufus": "5.519",
+          "kadin_nufus": "5.594",
+          "yuzolcumu": "286"
+      }
+
+    ],
+    "kisa_bilgi": "Turizm ve tarım sektörlerinde ülkenin önemli illerinden biri olan Aydın, aynı zamanda Türkiye'nin ilk demiryolu kurulan şehridir. Kuzeyinde İzmir, Manisa, doğusunda Denizli, güneyinde Muğla ile çevrili il, çok önemli turistik mekanlara, plajlara, antik kentlere evsahipliği yapar."
+  },
+
+  {
+    "il_adi": "Balıkesir",
+    "plaka_kodu": "10",
+    "alan_kodu": "266",
+    "nufus": "1.226.575",
+    "bolge": "Marmara",
+    "yuzolcumu": "14.583",
+    "erkek_nufus_yuzde": "49,96%",
+    "erkek_nufus": "612.738",
+    "kadin_nufus_yuzde": "50,04%",
+    "kadin_nufus": "613.837",
+    "nufus_yuzdesi_genel": "1,50%",
+    "ilceler": [
+      {
+          "ilce_adi": "Altıeylül",
+          "nufus": "181.209",
+          "erkek_nufus": "91.968",
+          "kadin_nufus": "89.241",
+          "yuzolcumu": "956"
+      },
+      {
+          "ilce_adi": "Karesi",
+          "nufus": "181.013",
+          "erkek_nufus": "87.914",
+          "kadin_nufus": "93.099",
+          "yuzolcumu": "695"
+      },
+      {
+          "ilce_adi": "Edremit",
+          "nufus": "154.487",
+          "erkek_nufus": "76.398",
+          "kadin_nufus": "78.089",
+          "yuzolcumu": "682"
+      },
+      {
+          "ilce_adi": "Bandırma",
+          "nufus": "154.359",
+          "erkek_nufus": "77.986",
+          "kadin_nufus": "76.373",
+          "yuzolcumu": "755"
+      },
+      {
+          "ilce_adi": "Gönen",
+          "nufus": "73.829",
+          "erkek_nufus": "36.756",
+          "kadin_nufus": "37.073",
+          "yuzolcumu": "1.162"
+      },
+      {
+          "ilce_adi": "Ayvalık",
+          "nufus": "71.063",
+          "erkek_nufus": "35.063",
+          "kadin_nufus": "36.000",
+          "yuzolcumu": "305"
+      },
+      {
+          "ilce_adi": "Burhaniye",
+          "nufus": "60.799",
+          "erkek_nufus": "31.158",
+          "kadin_nufus": "29.641",
+          "yuzolcumu": "420"
+      },
+      {
+          "ilce_adi": "Bigadiç",
+          "nufus": "49.887",
+          "erkek_nufus": "25.488",
+          "kadin_nufus": "24.399",
+          "yuzolcumu": "1108"
+      },
+      {
+          "ilce_adi": "Susurluk",
+          "nufus": "39.058",
+          "erkek_nufus": "19.295",
+          "kadin_nufus": "19.763",
+          "yuzolcumu": "652"
+      },
+      {
+          "ilce_adi": "Dursunbey",
+          "nufus": "35.875",
+          "erkek_nufus": "17.541",
+          "kadin_nufus": "18.334",
+          "yuzolcumu": "1.719"
+      },
+      {
+          "ilce_adi": "Sındırgı",
+          "nufus": "33.924",
+          "erkek_nufus": "16.343",
+          "kadin_nufus": "17.581",
+          "yuzolcumu": "1.387"
+      },
+      {
+          "ilce_adi": "Erdek",
+          "nufus": "32.963",
+          "erkek_nufus": "16.724",
+          "kadin_nufus": "16.239",
+          "yuzolcumu": "307"
+      },
+      {
+          "ilce_adi": "İvrindi",
+          "nufus": "32.758",
+          "erkek_nufus": "16.341",
+          "kadin_nufus": "16.417",
+          "yuzolcumu": "818"
+      },
+      {
+          "ilce_adi": "Havran",
+          "nufus": "27.741",
+          "erkek_nufus": "13.859",
+          "kadin_nufus": "13.882",
+          "yuzolcumu": "565"
+      },
+      {
+          "ilce_adi": "Kepsut",
+          "nufus": "23.123",
+          "erkek_nufus": "12.495",
+          "kadin_nufus": "10.628",
+          "yuzolcumu": "889"
+      },
+      {
+          "ilce_adi": "Manyas",
+          "nufus": "19.339",
+          "erkek_nufus": "9.554",
+          "kadin_nufus": "9.785",
+          "yuzolcumu": "634"
+      },
+      {
+          "ilce_adi": "Savaştepe",
+          "nufus": "18.243",
+          "erkek_nufus": "9.085",
+          "kadin_nufus": "9.158",
+          "yuzolcumu": "427"
+      },
+      {
+          "ilce_adi": "Gömeç",
+          "nufus": "13.894",
+          "erkek_nufus": "6.952",
+          "kadin_nufus": "6.942",
+          "yuzolcumu": "171"
+      },
+      {
+          "ilce_adi": "Balya",
+          "nufus": "13.141",
+          "erkek_nufus": "6.545",
+          "kadin_nufus": "6.596",
+          "yuzolcumu": "797"
+      },
+      {
+          "ilce_adi": "Marmara",
+          "nufus": "9.870",
+          "erkek_nufus": "5.273",
+          "kadin_nufus": "4.597",
+          "yuzolcumu": "134"
+      }
+
+
+    ],
+    "kisa_bilgi": "Hem Marmara hem de Ege Denizi'ne kıyısı olan, topraklarının büyük kısmı Güney Marmara bölümünde yer alan Balıkesir, Ayvalık, Altınoluk, Avşa Adası, Cunda, Gönen, Edremit, Manyas, Susurluk gibi turistik mekânlara sahiptir."
+  },
+
+
+  {
+    "il_adi": "Bilecik",
+    "plaka_kodu": "11",
+    "alan_kodu": "228",
+    "nufus": "223.448",
+    "bolge": "Marmara",
+    "yuzolcumu": "4.179",
+    "erkek_nufus_yuzde": "52,33%",
+    "erkek_nufus": "116.923",
+    "kadin_nufus_yuzde": "47,67%",
+    "kadin_nufus": "106.525",
+    "nufus_yuzdesi_genel": "0,27%",
+    "ilceler": [
+      {
+          "ilce_adi": "Merkez",
+          "nufus": "44.722",
+          "erkek_nufus": "44.722",
+          "kadin_nufus": "37.001",
+          "yuzolcumu": "793"
+      },
+      {
+          "ilce_adi": "Bozüyük",
+          "nufus": "74.441",
+          "erkek_nufus": "37.581",
+          "kadin_nufus": "36.860",
+          "yuzolcumu": "860"
+      },
+      {
+          "ilce_adi": "Osmaneli",
+          "nufus": "20.976",
+          "erkek_nufus": "10.461",
+          "kadin_nufus": "10.515",
+          "yuzolcumu": "490"
+      },
+      {
+          "ilce_adi": "Söğüt",
+          "nufus": "19.244",
+          "erkek_nufus": "10.267",
+          "kadin_nufus": "8.977",
+          "yuzolcumu": "523"
+      },
+      {
+          "ilce_adi": "Gölpazarı",
+          "nufus": "10.591",
+          "erkek_nufus": "5.786",
+          "kadin_nufus": "4.805",
+          "yuzolcumu": "670"
+      },
+      {
+          "ilce_adi": "Pazaryeri",
+          "nufus": "10.527",
+          "erkek_nufus": "5.166",
+          "kadin_nufus": "5.361",
+          "yuzolcumu": "324"
+      },
+      {
+          "ilce_adi": "İnhisar",
+          "nufus": "2.981",
+          "erkek_nufus": "1.493",
+          "kadin_nufus": "1.488",
+          "yuzolcumu": "244"
+      },
+      {
+          "ilce_adi": "Yenipazar",
+          "nufus": "2.965",
+          "erkek_nufus": "1.447",
+          "kadin_nufus": "1.518",
+          "yuzolcumu": "273"
+      }
+
+
+    ],
+    "kisa_bilgi": "Marmara Bölgesi’nin güneydoğusunda yer alan ve ilk yerleşimin M.Ö. 3 bin yılına dek uzandığı Bilecik, aynı zamanda Osmanlı’nın doğduğu topraklardır. "
   }
 
 ]
