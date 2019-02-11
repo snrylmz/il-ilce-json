@@ -1288,6 +1288,329 @@
 
     ],
     "kisa_bilgi": "Marmara Bölgesi’nin güneydoğusunda yer alan ve ilk yerleşimin M.Ö. 3 bin yılına dek uzandığı Bilecik, aynı zamanda Osmanlı’nın doğduğu topraklardır. "
-  }
+  },
+
+
+
+  {
+    "il_adi": "Bingöl",
+    "plaka_kodu": "12",
+    "alan_kodu": "426",
+    "nufus": "281.205",
+    "bolge": "Doğu Anadolu",
+    "yuzolcumu": "8.004",
+    "erkek_nufus_yuzde": "51,04%",
+    "erkek_nufus": "143.524",
+    "kadin_nufus_yuzde": "48,96%",
+    "kadin_nufus": "137.681",
+    "nufus_yuzdesi_genel": "0,34%",
+    "ilceler": [
+      {
+          "ilce_adi": "Merkez",
+          "nufus": "160.165",
+          "erkek_nufus": "80.875",
+          "kadin_nufus": "79.290",
+          "yuzolcumu": "825"
+      },
+      {
+          "ilce_adi": "Genç",
+          "nufus": "38.428",
+          "erkek_nufus": "19.923",
+          "kadin_nufus": "18.505",
+          "yuzolcumu": "1.443"
+      },
+      {
+          "ilce_adi": "Solhan",
+          "nufus": "33.618",
+          "erkek_nufus": "16.919",
+          "kadin_nufus": "16.699",
+          "yuzolcumu": "1.033"
+      },
+      {
+          "ilce_adi": "Karlıova",
+          "nufus": "29.650",
+          "erkek_nufus": "14.990",
+          "kadin_nufus": "14.660",
+          "yuzolcumu": "1.566"
+      },
+      {
+          "ilce_adi": "Adaklı",
+          "nufus": "9.315",
+          "erkek_nufus": "4.947",
+          "kadin_nufus": "4.368",
+          "yuzolcumu": "825"
+      },
+      {
+          "ilce_adi": "Kiğı",
+          "nufus": "5.013",
+          "erkek_nufus": "2.911",
+          "kadin_nufus": "2.102",
+          "yuzolcumu": "483"
+      },
+      {
+          "ilce_adi": "Yedisu",
+          "nufus": "2.877",
+          "erkek_nufus": "1.623",
+          "kadin_nufus": "1.254",
+          "yuzolcumu": "423"
+      },
+      {
+          "ilce_adi": "Yayladere",
+          "nufus": "2.139",
+          "erkek_nufus": "1.336",
+          "kadin_nufus": "803",
+          "yuzolcumu": "417"
+      }
+
+    ],
+    "kisa_bilgi": "Doğu Anadolu bölgesindeki ilimiz Bingöl, doğal ve tarihi güzellikleriyle yerli ve yabancı turistlerin ilgisini çekecek potansiyele sahip."
+  },
+
+
+
+
+  {
+    "il_adi": "Bitlis",
+    "plaka_kodu": "13",
+    "alan_kodu": "434",
+    "nufus": "349.396",
+    "bolge": "Doğu Anadolu",
+    "yuzolcumu": "8.294",
+    "erkek_nufus_yuzde": "52,08%",
+    "erkek_nufus": "181.970",
+    "kadin_nufus_yuzde": "47,92%",
+    "kadin_nufus": "167.426",
+    "nufus_yuzdesi_genel": "0,38%",
+    "ilceler": [
+      {
+          "ilce_adi": "Tatvan",
+          "nufus": "92.695",
+          "erkek_nufus": "48.775",
+          "kadin_nufus": "43.920",
+          "yuzolcumu": "1.885"
+      },
+      {
+          "ilce_adi": "Merkez",
+          "nufus": "71.501",
+          "erkek_nufus": "37.500",
+          "kadin_nufus": "34.001",
+          "yuzolcumu": "1.064"
+      },
+      {
+          "ilce_adi": "Güroymak",
+          "nufus": "47.742",
+          "erkek_nufus": "24.564",
+          "kadin_nufus": "23.178",
+          "yuzolcumu": "515"
+      },
+      {
+          "ilce_adi": "Ahlat",
+          "nufus": "40.806",
+          "erkek_nufus": "21.381",
+          "kadin_nufus": "19.425",
+          "yuzolcumu": "1.153"
+      },
+      {
+          "ilce_adi": "Hizan",
+          "nufus": "34.186",
+          "erkek_nufus": "17.666",
+          "kadin_nufus": "16.520",
+          "yuzolcumu": "1.021"
+      },
+      {
+          "ilce_adi": "Mutki",
+          "nufus": "16.583",
+          "erkek_nufus": "16.583",
+          "kadin_nufus": "15.507",
+          "yuzolcumu": "1069"
+      },
+      {
+          "ilce_adi": "Adilcevaz",
+          "nufus": "30.376",
+          "erkek_nufus": "15.501",
+          "kadin_nufus": "14.875",
+          "yuzolcumu": "1586"
+      }
+
+    ],
+    "kisa_bilgi": "Tarihte Urartuların yerleşim yeri olmuş, 1514 yılında Osmanlı egemenliğine giren Bitlis, en çok Tatvan’dan ulaşılabilecek Nemrut Yanardağı ve Nemrut Krater Gölü ile turistlerin ilgisini çekiyor. "
+  },
+
+  {
+    "il_adi": "Bolu",
+    "plaka_kodu": "14",
+    "alan_kodu": "374",
+    "nufus": "311.810",
+    "bolge": "Karadeniz",
+    "yuzolcumu": "8.313",
+    "erkek_nufus_yuzde": "49,62%",
+    "erkek_nufus": "154.711",
+    "kadin_nufus_yuzde": "50,38%",
+    "kadin_nufus": "157.099",
+    "nufus_yuzdesi_genel": "0,38%",
+    "ilceler": [
+      {
+          "ilce_adi": "Merkez",
+          "nufus": "205.525",
+          "erkek_nufus": "101.710",
+          "kadin_nufus": "103.815",
+          "yuzolcumu": "1.616"
+      },
+      {
+          "ilce_adi": "Gerede",
+          "nufus": "34.277",
+          "erkek_nufus": "17.023",
+          "kadin_nufus": "17.254",
+          "yuzolcumu": "1.060"
+      },
+      {
+          "ilce_adi": "Mudurnu",
+          "nufus": "19.327",
+          "erkek_nufus": "9.734",
+          "kadin_nufus": "9.593",
+          "yuzolcumu": "1314"
+      },
+      {
+          "ilce_adi": "Göynük",
+          "nufus": "15.423",
+          "erkek_nufus": "7.771",
+          "kadin_nufus": "7.652",
+          "yuzolcumu": "1.407"
+      },
+      {
+          "ilce_adi": "Mengen",
+          "nufus": "14.355",
+          "erkek_nufus": "7.228",
+          "kadin_nufus": "7.127",
+          "yuzolcumu": "874"
+      },
+      {
+          "ilce_adi": "Yeniçağa",
+          "nufus": "7.294",
+          "erkek_nufus": "3.669",
+          "kadin_nufus": "3.625",
+          "yuzolcumu": "163"
+      },
+      {
+          "ilce_adi": "Dörtdivan",
+          "nufus": "7.139",
+          "erkek_nufus": "3.466",
+          "kadin_nufus": "3.673",
+          "yuzolcumu": "634"
+      },
+      {
+          "ilce_adi": "Seben",
+          "nufus": "5.250",
+          "erkek_nufus": "2.504",
+          "kadin_nufus": "2.746",
+          "yuzolcumu": "683"
+      },
+      {
+          "ilce_adi": "Kıbrıscık",
+          "nufus": "3.220",
+          "erkek_nufus": "1.606",
+          "kadin_nufus": "1.614",
+          "yuzolcumu": "562"
+      }
+
+    ],
+    "kisa_bilgi": "Batı Karadeniz’de bulunan yemyeşil doğası, tertemiz havası ve su kaynaklarıyla dikkat çeken Bolu’da, Abant Gölü ve Yedigöller Milli Parkı en turistik yerler arasında."
+  },
+
+
+  {
+    "il_adi": "Burdur",
+    "plaka_kodu": "15",
+    "alan_kodu": "248",
+    "nufus": "269.926",
+    "bolge": "Akdeniz",
+    "yuzolcumu": "7.175",
+    "erkek_nufus_yuzde": "50,10%",
+    "erkek_nufus": "135.240",
+    "kadin_nufus_yuzde": "49,90%",
+    "kadin_nufus": "134.686",
+    "nufus_yuzdesi_genel": "0,33%",
+    "ilceler": [
+      {
+          "ilce_adi": "Merkez",
+          "nufus": "113.077",
+          "erkek_nufus": "57.643",
+          "kadin_nufus": "55.434",
+          "yuzolcumu": "1.567"
+      },
+      {
+          "ilce_adi": "Bucak",
+          "nufus": "64.943",
+          "erkek_nufus": "32.279",
+          "kadin_nufus": "32.664",
+          "yuzolcumu": "1511"
+      },
+      {
+          "ilce_adi": "Gölhisar",
+          "nufus": "22.519",
+          "erkek_nufus": "11.224",
+          "kadin_nufus": "11.295",
+          "yuzolcumu": "494"
+      },
+      {
+          "ilce_adi": "Yeşilova",
+          "nufus": "15.457",
+          "erkek_nufus": "7.459",
+          "kadin_nufus": "7.998",
+          "yuzolcumu": "1108"
+      },
+      {
+          "ilce_adi": "Çavdır",
+          "nufus": "13.077",
+          "erkek_nufus": "6.480",
+          "kadin_nufus": "6.597",
+          "yuzolcumu": "482"
+      },
+      {
+          "ilce_adi": "Tefenni",
+          "nufus": "10.201",
+          "erkek_nufus": "5.008",
+          "kadin_nufus": "5.193",
+          "yuzolcumu": "582"
+      },
+      {
+          "ilce_adi": "Ağlasun",
+          "nufus": "8.537",
+          "erkek_nufus": "4.278",
+          "kadin_nufus": "4.259",
+          "yuzolcumu": "305"
+      },
+      {
+          "ilce_adi": "Karamanlı",
+          "nufus": "8.006",
+          "erkek_nufus": "3.933",
+          "kadin_nufus": "4.073",
+          "yuzolcumu": "372"
+      },
+      {
+          "ilce_adi": "Altınyayla",
+          "nufus": "5.591",
+          "erkek_nufus": "2.827",
+          "kadin_nufus": "2.764",
+          "yuzolcumu": "221"
+      },
+      {
+          "ilce_adi": "Çeltikçi",
+          "nufus": "5.237",
+          "erkek_nufus": "2.511",
+          "kadin_nufus": "2.726",
+          "yuzolcumu": "161"
+      },
+      {
+          "ilce_adi": "Kemer",
+          "nufus": "3.281",
+          "erkek_nufus": "1.598",
+          "kadin_nufus": "1.683",
+          "yuzolcumu": "373"
+      }
+
+    ],
+    "kisa_bilgi": "Akdeniz Bölgesinde, Orta ve Batı Anadolu’yu Akdeniz’e bağlayan yolların kavşağında yer alan Burdur, bu özelliğiyle tarih boyunca çeşitli uygarlıkların da kavşağı konumunda olmuştur. "
+    }
 
 ]
