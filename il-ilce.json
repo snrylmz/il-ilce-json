@@ -1608,6 +1608,142 @@
 
             ],
             "kisa_bilgi": "Akdeniz Bölgesinde, Orta ve Batı Anadolu’yu Akdeniz’e bağlayan yolların kavşağında yer alan Burdur, bu özelliğiyle tarih boyunca çeşitli uygarlıkların da kavşağı konumunda olmuştur. "
+          },
+
+          {
+            "il_adi": "Bursa",
+            "plaka_kodu": "16",
+            "alan_kodu": "224",
+            "nufus": "2.994.521",
+            "bolge": "Marmara",
+            "yuzolcumu": "10.813",
+            "erkek_nufus_yuzde": "50,03%",
+            "erkek_nufus": "1.498.219",
+            "kadin_nufus_yuzde": "49,97%",
+            "kadin_nufus": "1.496.302",
+            "nufus_yuzdesi_genel": "3,65%",
+            "ilceler": [
+              {
+                  "ilce_adi": "Osmangazi",
+                  "nufus": "862.516",
+                  "erkek_nufus": "432.431",
+                  "kadin_nufus": "430.085",
+                  "yuzolcumu": "621"
+              },
+              {
+                  "ilce_adi": "Yıldırım",
+                  "nufus": "653.004",
+                  "erkek_nufus": "328.585",
+                  "kadin_nufus": "324.419",
+                  "yuzolcumu": "110"
+              },
+              {
+                  "ilce_adi": "Nilüfer",
+                  "nufus": "441.299",
+                  "erkek_nufus": "218.848",
+                  "kadin_nufus": "222.451",
+                  "yuzolcumu": "552"
+              },
+              {
+                  "ilce_adi": "İnegöl",
+                  "nufus": "268.155",
+                  "erkek_nufus": "134.942",
+                  "kadin_nufus": "133.213",
+                  "yuzolcumu": "1.118"
+              },
+              {
+                  "ilce_adi": "Gemlik",
+                  "nufus": "111.488",
+                  "erkek_nufus": "56.295",
+                  "kadin_nufus": "55.193",
+                  "yuzolcumu": "401"
+              },
+              {
+                  "ilce_adi": "Mustafakemalpa",
+                  "nufus": "100.696",
+                  "erkek_nufus": "50.061",
+                  "kadin_nufus": "50.635",
+                  "yuzolcumu": "1.641"
+              },
+              {
+                  "ilce_adi": "Mudanya",
+                  "nufus": "93.707",
+                  "erkek_nufus": "45.724",
+                  "kadin_nufus": "47.983",
+                  "yuzolcumu": "369"
+              },
+              {
+                  "ilce_adi": "Gürsu",
+                  "nufus": "91.339",
+                  "erkek_nufus": "46.065",
+                  "kadin_nufus": "45.274",
+                  "yuzolcumu": "106"
+              },
+              {
+                  "ilce_adi": "Karacabey",
+                  "nufus": "83.115",
+                  "erkek_nufus": "41.596",
+                  "kadin_nufus": "41.519",
+                  "yuzolcumu": "1.158"
+              },
+              {
+                  "ilce_adi": "Orhangazi",
+                  "nufus": "78.447",
+                  "erkek_nufus": "39.339",
+                  "kadin_nufus": "39.108",
+                  "yuzolcumu": "506"
+              },
+              {
+                  "ilce_adi": "Kestel",
+                  "nufus": "65.256",
+                  "erkek_nufus": "32.568",
+                  "kadin_nufus": "32.688",
+                  "yuzolcumu": "396"
+              },
+              {
+                  "ilce_adi": "Yenişehir",
+                  "nufus": "53.704",
+                  "erkek_nufus": "26.594",
+                  "kadin_nufus": "27.110",
+                  "yuzolcumu": "720"
+              },
+              {
+                  "ilce_adi": "İznik",
+                  "nufus": "43.330",
+                  "erkek_nufus": "21.438",
+                  "kadin_nufus": "21.892",
+                  "yuzolcumu": "753"
+              },
+              {
+                  "ilce_adi": "Orhaneli",
+                  "nufus": "19.492",
+                  "erkek_nufus": "9.521",
+                  "kadin_nufus": "9.971",
+                  "yuzolcumu": "838"
+              },
+              {
+                  "ilce_adi": "Keles",
+                  "nufus": "12.355",
+                  "erkek_nufus": "6.082",
+                  "kadin_nufus": "6.273",
+                  "yuzolcumu": "617"
+              },
+              {
+                  "ilce_adi": "Büyükorhan",
+                  "nufus": "10.042",
+                  "erkek_nufus": "4.935",
+                  "kadin_nufus": "5.107",
+                  "yuzolcumu": "505"
+              },
+              {
+                  "ilce_adi": "Harmancık",
+                  "nufus": "6.576",
+                  "erkek_nufus": "3.195",
+                  "kadin_nufus": "3.381",
+                  "yuzolcumu": "400"
+              }
+            ],
+            "kisa_bilgi": "Akdeniz Bölgesinde, Orta ve Batı Anadolu’yu Akdeniz’e bağlayan yolların kavşağında yer alan Burdur, bu özelliğiyle tarih boyunca çeşitli uygarlıkların da kavşağı konumunda olmuştur. "
             }
         ]
  }
