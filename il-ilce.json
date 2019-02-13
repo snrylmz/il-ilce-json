@@ -1744,6 +1744,327 @@
               }
             ],
             "kisa_bilgi": "Akdeniz Bölgesinde, Orta ve Batı Anadolu’yu Akdeniz’e bağlayan yolların kavşağında yer alan Burdur, bu özelliğiyle tarih boyunca çeşitli uygarlıkların da kavşağı konumunda olmuştur. "
+          },
+
+          {
+            "il_adi": "Çanakkale",
+            "plaka_kodu": "17",
+            "alan_kodu": "286",
+            "nufus": "540.662",
+            "bolge": "Ege",
+            "yuzolcumu": "9.817",
+            "erkek_nufus_yuzde": "50,51%",
+            "erkek_nufus": "273.092",
+            "kadin_nufus_yuzde": "49,49%",
+            "kadin_nufus": "267.570",
+            "nufus_yuzdesi_genel": "0,66%",
+            "ilceler": [
+              {
+                  "ilce_adi": "Merkez",
+                  "nufus": "180.823",
+                  "erkek_nufus": "90.261",
+                  "kadin_nufus": "90.562",
+                  "yuzolcumu": "1.016"
+              },
+              {
+                  "ilce_adi": "Biga",
+                  "nufus": "90.576",
+                  "erkek_nufus": "45.235",
+                  "kadin_nufus": "45.341",
+                  "yuzolcumu": "1.310"
+              },
+              {
+                  "ilce_adi": "Çan",
+                  "nufus": "48.215",
+                  "erkek_nufus": "24.198",
+                  "kadin_nufus": "24.017",
+                  "yuzolcumu": "905"
+              },
+              {
+                  "ilce_adi": "Gelibolu",
+                  "nufus": "44.809",
+                  "erkek_nufus": "24.176",
+                  "kadin_nufus": "20.633",
+                  "yuzolcumu": "823"
+              },
+              {
+                  "ilce_adi": "Ayvacık",
+                  "nufus": "33.568",
+                  "erkek_nufus": "16.789",
+                  "kadin_nufus": "16.779",
+                  "yuzolcumu": "880"
+              },
+              {
+                  "ilce_adi": "Ezine",
+                  "nufus": "32.003",
+                  "erkek_nufus": "16.368",
+                  "kadin_nufus": "15.635",
+                  "yuzolcumu": "727"
+              },
+              {
+                  "ilce_adi": "Yenice",
+                  "nufus": "31.907",
+                  "erkek_nufus": "15.775",
+                  "kadin_nufus": "16.132",
+                  "yuzolcumu": "1.381"
+              },
+              {
+                  "ilce_adi": "Bayramiç",
+                  "nufus": "29.716",
+                  "erkek_nufus": "14.718",
+                  "kadin_nufus": "14.998",
+                  "yuzolcumu": "1.204"
+              },
+              {
+                  "ilce_adi": "Lapseki",
+                  "nufus": "27.327",
+                  "erkek_nufus": "13.658",
+                  "kadin_nufus": "13.669",
+                  "yuzolcumu": "821"
+              },
+              {
+                  "ilce_adi": "Gökçeada",
+                  "nufus": "9.783",
+                  "erkek_nufus": "5.701",
+                  "kadin_nufus": "4.082",
+                  "yuzolcumu": "282"
+              },
+              {
+                  "ilce_adi": "Eceabat",
+                  "nufus": "8.912",
+                  "erkek_nufus": "4.528",
+                  "kadin_nufus": "4.384",
+                  "yuzolcumu": "430"
+              },
+              {
+                  "ilce_adi": "Bozcaada",
+                  "nufus": "3.023",
+                  "erkek_nufus": "1.685",
+                  "kadin_nufus": "1.338",
+                  "yuzolcumu": "37"
+              }
+
+
+            ],
+            "kisa_bilgi": "Kuzeybatı Anadolu’da, Troya kalıntılarının yer aldığı, binlerce yıllık tarihi mirası, doğal güzellikleriyle en güzel şehirlerimizden biri olan Çanakkale’de, 1963 yılından bu yana her ağustos ayında Uluslararası Troia Festivali düzenleniyor. Truva filminin setinde kullanılan ve şehre hediye edilen Truva Atı, merkezde görülebilir."
+          },
+
+          {
+            "il_adi": "Çankırı",
+            "plaka_kodu": "18",
+            "alan_kodu": "376",
+            "nufus": "216.362",
+            "bolge": "İç Anadolu",
+            "yuzolcumu": "7.542",
+            "erkek_nufus_yuzde": "50,62%",
+            "erkek_nufus": "109.512",
+            "kadin_nufus_yuzde": "49,38%",
+            "kadin_nufus": "106.850",
+            "nufus_yuzdesi_genel": "0,26%",
+            "ilceler": [
+              {
+                  "ilce_adi": "Merkez",
+                  "nufus": "96.025",
+                  "erkek_nufus": "48.571",
+                  "kadin_nufus": "47.454",
+                  "yuzolcumu": "1.440"
+              },
+              {
+                  "ilce_adi": "Orta",
+                  "nufus": "20.439",
+                  "erkek_nufus": "10.570",
+                  "kadin_nufus": "9.869",
+                  "yuzolcumu": "706"
+              },
+              {
+                  "ilce_adi": "Çerkeş",
+                  "nufus": "18.694",
+                  "erkek_nufus": "9.504",
+                  "kadin_nufus": "9.190",
+                  "yuzolcumu": "947"
+              },
+              {
+                  "ilce_adi": "Ilgaz",
+                  "nufus": "14.891",
+                  "erkek_nufus": "7.433",
+                  "kadin_nufus": "7.458",
+                  "yuzolcumu": "845"
+              },
+              {
+                  "ilce_adi": "Şabanözü",
+                  "nufus": "14.080",
+                  "erkek_nufus": "7.122",
+                  "kadin_nufus": "6.958",
+                  "yuzolcumu": "467"
+              },
+              {
+                  "ilce_adi": "Kurşunlu",
+                  "nufus": "10.307",
+                  "erkek_nufus": "5.305",
+                  "kadin_nufus": "5.002",
+                  "yuzolcumu": "609"
+              },
+              {
+                  "ilce_adi": "Yapraklı",
+                  "nufus": "8.981",
+                  "erkek_nufus": "4.358",
+                  "kadin_nufus": "4.623",
+                  "yuzolcumu": "741"
+              },
+              {
+                  "ilce_adi": "Kızılırmak",
+                  "nufus": "8.220",
+                  "erkek_nufus": "4.077",
+                  "kadin_nufus": "4.143",
+                  "yuzolcumu": "514"
+              },
+              {
+                  "ilce_adi": "Eldivan",
+                  "nufus": "7.588",
+                  "erkek_nufus": "3.792",
+                  "kadin_nufus": "3.796",
+                  "yuzolcumu": "350"
+              },
+              {
+                  "ilce_adi": "Atkaracalar",
+                  "nufus": "7.213",
+                  "erkek_nufus": "3.730",
+                  "kadin_nufus": "3.483",
+                  "yuzolcumu": "234"
+              },
+              {
+                  "ilce_adi": "Korgun",
+                  "nufus": "5.666",
+                  "erkek_nufus": "2.898",
+                  "kadin_nufus": "2.768",
+                  "yuzolcumu": "378"
+              },
+              {
+                  "ilce_adi": "Bayramören",
+                  "nufus": "4.258",
+                  "erkek_nufus": "2.152",
+                  "kadin_nufus": "2.106",
+                  "yuzolcumu": "310"
+              }
+
+            ],
+            "kisa_bilgi": "Tarihi M.Ö. 5 bin yılına dek uzanan Çankırı, İç Anadolu’nun kuzey ucunda bulunuyor."
+          },
+
+          {
+            "il_adi": "Çorum",
+            "plaka_kodu": "19",
+            "alan_kodu": "364",
+            "nufus": "536.483",
+            "bolge": "Karadeniz",
+            "yuzolcumu": "12.428",
+            "erkek_nufus_yuzde": "49,52%",
+            "erkek_nufus": "265.678",
+            "kadin_nufus_yuzde": "50,48%",
+            "kadin_nufus": "270.805",
+            "nufus_yuzdesi_genel": "0,26%",
+            "ilceler": [
+              {
+                  "ilce_adi": "Merkez",
+                  "nufus": "294.807",
+                  "erkek_nufus": "146.299",
+                  "kadin_nufus": "148.508",
+                  "yuzolcumu": "2.436"
+              },
+              {
+                  "ilce_adi": "Sungurlu",
+                  "nufus": "49.082",
+                  "erkek_nufus": "24.192",
+                  "kadin_nufus": "24.890",
+                  "yuzolcumu": "1.999"
+              },
+              {
+                  "ilce_adi": "Osmancık",
+                  "nufus": "42.980",
+                  "erkek_nufus": "21.227",
+                  "kadin_nufus": "21.753",
+                  "yuzolcumu": "1.273"
+              },
+              {
+                  "ilce_adi": "İskilip",
+                  "nufus": "32.546",
+                  "erkek_nufus": "16.068",
+                  "kadin_nufus": "16.478",
+                  "yuzolcumu": "1.170"
+              },
+              {
+                  "ilce_adi": "Alaca",
+                  "nufus": "31.460",
+                  "erkek_nufus": "15.669",
+                  "kadin_nufus": "15.791",
+                  "yuzolcumu": "1.296"
+              },
+              {
+                  "ilce_adi": "Bayat",
+                  "nufus": "16.525",
+                  "erkek_nufus": "7.933",
+                  "kadin_nufus": "8.592",
+                  "yuzolcumu": "717"
+              },
+              {
+                  "ilce_adi": "Kargı",
+                  "nufus": "15.684",
+                  "erkek_nufus": "7.573",
+                  "kadin_nufus": "8.111",
+                  "yuzolcumu": "1.174"
+              },
+              {
+                  "ilce_adi": "Mecitözü",
+                  "nufus": "15.655",
+                  "erkek_nufus": "7.840",
+                  "kadin_nufus": "7.815",
+                  "yuzolcumu": "825"
+              },
+              {
+                  "ilce_adi": "Ortaköy",
+                  "nufus": "8.696",
+                  "erkek_nufus": "4.374",
+                  "kadin_nufus": "4.322",
+                  "yuzolcumu": "300"
+              },
+              {
+                  "ilce_adi": "Uğurludağ",
+                  "nufus": "8.252",
+                  "erkek_nufus": "4.228",
+                  "kadin_nufus": "4.024",
+                  "yuzolcumu": "428"
+              },
+              {
+                  "ilce_adi": "Dodurga",
+                  "nufus": "6.368",
+                  "erkek_nufus": "3.093",
+                  "kadin_nufus": "3.275",
+                  "yuzolcumu": "229"
+              },
+              {
+                  "ilce_adi": "Oğuzlar",
+                  "nufus": "5.483",
+                  "erkek_nufus": "2.660",
+                  "kadin_nufus": "2.823",
+                  "yuzolcumu": "121"
+              },
+              {
+                  "ilce_adi": "Laçin",
+                  "nufus": "4.770",
+                  "erkek_nufus": "2.429",
+                  "kadin_nufus": "2.341",
+                  "yuzolcumu": "196"
+              },
+              {
+                  "ilce_adi": "Boğazkale",
+                  "nufus": "4.175",
+                  "erkek_nufus": "2.093",
+                  "kadin_nufus": "2.082",
+                  "yuzolcumu": "264"
+              }
+
+            ],
+            "kisa_bilgi": "Pek çok medeniyete ev sahipliği yapmış, M.Ö. 4000 yılına dek uzanan yerleşim izlerine rastlanan, İç Orta Karadeniz bölgesinde, leblebisiyle meşhur bu ilimiz, ova ve akarsu zenginliğiyle dikkat çekiyor."
             }
         ]
  }
