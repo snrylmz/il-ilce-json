@@ -3544,6 +3544,297 @@
 
                     ],
                     "kisa_bilgi": "Türkiye'nin güneyinde bulunan Mersin, ülkenin en büyük limanı (Mersin Limanı) ile bir liman kentidir. Mersin Serbest Bölgesi, tekstil firmaları yoğunlukta olmak üzere pek çok şirkete ev sahipliği yapar. "
+                  },
+
+                  {
+                    "il_adi": "İstanbul",
+                    "plaka_kodu": "34",
+                    "alan_kodu": "212-216",
+                    "nufus": "15.067.724",
+                    "bolge": "Marmara",
+                    "yuzolcumu": "5.461",
+                    "erkek_nufus_yuzde": "50,06%",
+                    "erkek_nufus": "7.542.231",
+                    "kadin_nufus_yuzde": "49,94%",
+                    "kadin_nufus": "7.525.493",
+                    "nufus_yuzdesi_genel": "18,37%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Esenyurt",
+                          "nufus": "891.120",
+                          "erkek_nufus": "456.552",
+                          "kadin_nufus": "434.568",
+                          "yuzolcumu": "43"
+                      },
+                      {
+                          "ilce_adi": "Küçükçekmece",
+                          "nufus": "770.317",
+                          "erkek_nufus": "385.154",
+                          "kadin_nufus": "385.163",
+                          "yuzolcumu": "44"
+                      },
+                      {
+                          "ilce_adi": "Bağcılar",
+                          "nufus": "734.369",
+                          "erkek_nufus": "372.311",
+                          "kadin_nufus": "362.058",
+                          "yuzolcumu": "23"
+                      },
+                      {
+                          "ilce_adi": "Pendik",
+                          "nufus": "693.599",
+                          "erkek_nufus": "350.302",
+                          "kadin_nufus": "343.297",
+                          "yuzolcumu": "190"
+                      },
+                      {
+                          "ilce_adi": "Ümraniye",
+                          "nufus": "690.193",
+                          "erkek_nufus": "345.478",
+                          "kadin_nufus": "344.715",
+                          "yuzolcumu": "46"
+                      },
+                      {
+                          "ilce_adi": "Bahçelievler",
+                          "nufus": "594.053",
+                          "erkek_nufus": "298.175",
+                          "kadin_nufus": "295.878",
+                          "yuzolcumu": "17"
+                      },
+                      {
+                          "ilce_adi": "Üsküdar",
+                          "nufus": "529.145",
+                          "erkek_nufus": "257.831",
+                          "kadin_nufus": "271.314",
+                          "yuzolcumu": ""
+                      },
+                      {
+                          "ilce_adi": "Sultangazi",
+                          "nufus": "523.765",
+                          "erkek_nufus": "266.629",
+                          "kadin_nufus": "257.136",
+                          "yuzolcumu": "35"
+                      },
+                      {
+                          "ilce_adi": "Maltepe",
+                          "nufus": "497.034",
+                          "erkek_nufus": "248.023",
+                          "kadin_nufus": "249.011",
+                          "yuzolcumu": "53"
+                      },
+                      {
+                          "ilce_adi": "Gaziosmanpaşa",
+                          "nufus": "487.046",
+                          "erkek_nufus": "244.474",
+                          "kadin_nufus": "242.572",
+                          "yuzolcumu": "12"
+                      },
+                      {
+                          "ilce_adi": "Kartal",
+                          "nufus": "461.155",
+                          "erkek_nufus": "228.034",
+                          "kadin_nufus": "233.121",
+                          "yuzolcumu": "38"
+                      },
+                      {
+                          "ilce_adi": "Kadıköy",
+                          "nufus": "458.638",
+                          "erkek_nufus": "207.069",
+                          "kadin_nufus": "251.569",
+                          "yuzolcumu": "25"
+                      },
+                      {
+                          "ilce_adi": "Esenler",
+                          "nufus": "444.561",
+                          "erkek_nufus": "227.440",
+                          "kadin_nufus": "217.121",
+                          "yuzolcumu": "19"
+                      },
+                      {
+                          "ilce_adi": "Kağıthane",
+                          "nufus": "437.026",
+                          "erkek_nufus": "220.089",
+                          "kadin_nufus": "216.937",
+                          "yuzolcumu": "15"
+                      },
+                      {
+                          "ilce_adi": "Fatih",
+                          "nufus": "436.539",
+                          "erkek_nufus": "221.118",
+                          "kadin_nufus": "215.421",
+                          "yuzolcumu": "15"
+                      },
+                      {
+                          "ilce_adi": "Avcılar",
+                          "nufus": "435.625",
+                          "erkek_nufus": "217.653",
+                          "kadin_nufus": "217.972",
+                          "yuzolcumu": "50"
+                      },
+                      {
+                          "ilce_adi": "Başakşehir",
+                          "nufus": "427.835",
+                          "erkek_nufus": "215.652",
+                          "kadin_nufus": "212.183",
+                          "yuzolcumu": "107"
+                      },
+                      {
+                          "ilce_adi": "Ataşehir",
+                          "nufus": "416.318",
+                          "erkek_nufus": "203.686",
+                          "kadin_nufus": "212.632",
+                          "yuzolcumu": "25"
+                      },
+                      {
+                          "ilce_adi": "Sancaktepe",
+                          "nufus": "414.143",
+                          "erkek_nufus": "210.194",
+                          "kadin_nufus": "203.949",
+                          "yuzolcumu": "63"
+                      },
+                      {
+                          "ilce_adi": "Eyüp",
+                          "nufus": "383.909",
+                          "erkek_nufus": "191.951",
+                          "kadin_nufus": "191.958",
+                          "yuzolcumu": "228"
+                      },
+                      {
+                          "ilce_adi": "Sarıyer",
+                          "nufus": "342.503",
+                          "erkek_nufus": "169.304",
+                          "kadin_nufus": "173.199",
+                          "yuzolcumu": "177"
+                      },
+                      {
+                          "ilce_adi": "Beylikdüzü",
+                          "nufus": "331.525",
+                          "erkek_nufus": "161.876",
+                          "kadin_nufus": "169.649",
+                          "yuzolcumu": "39"
+                      },
+                      {
+                          "ilce_adi": "Sultanbeyli",
+                          "nufus": "327.798",
+                          "erkek_nufus": "167.763",
+                          "kadin_nufus": "160.035",
+                          "yuzolcumu": "29"
+                      },
+                      {
+                          "ilce_adi": "Güngören",
+                          "nufus": "289.331",
+                          "erkek_nufus": "145.936",
+                          "kadin_nufus": "143.395",
+                          "yuzolcumu": "7"
+                      },
+                      {
+                          "ilce_adi": "Zeytinburnu",
+                          "nufus": "284.935",
+                          "erkek_nufus": "142.052",
+                          "kadin_nufus": "142.883",
+                          "yuzolcumu": "12"
+                      },
+                      {
+                          "ilce_adi": "Şişli",
+                          "nufus": "274.289",
+                          "erkek_nufus": "133.500",
+                          "kadin_nufus": "140.789",
+                          "yuzolcumu": "10"
+                      },
+                      {
+                          "ilce_adi": "Bayrampaşa",
+                          "nufus": "271.073",
+                          "erkek_nufus": "135.907",
+                          "kadin_nufus": "135.166",
+                          "yuzolcumu": "9"
+                      },
+                      {
+                          "ilce_adi": "Arnavutköy",
+                          "nufus": "270.549",
+                          "erkek_nufus": "140.662",
+                          "kadin_nufus": "129.887",
+                          "yuzolcumu": "453"
+                      },
+                      {
+                          "ilce_adi": "Tuzla",
+                          "nufus": "255.468",
+                          "erkek_nufus": "130.360",
+                          "kadin_nufus": "125.108",
+                          "yuzolcumu": "138"
+                      },
+                      {
+                          "ilce_adi": "Çekmeköy",
+                          "nufus": "251.937",
+                          "erkek_nufus": "126.336",
+                          "kadin_nufus": "125.601",
+                          "yuzolcumu": "152"
+                      },
+                      {
+                          "ilce_adi": "Büyükçekmece",
+                          "nufus": "247.736",
+                          "erkek_nufus": "122.755",
+                          "kadin_nufus": "124.981",
+                          "yuzolcumu": "173"
+                      },
+                      {
+                          "ilce_adi": "Beykoz",
+                          "nufus": "246.700",
+                          "erkek_nufus": "122.109",
+                          "kadin_nufus": "124.591",
+                          "yuzolcumu": "310"
+                      },
+                      {
+                          "ilce_adi": "Beyoğlu",
+                          "nufus": "230.526",
+                          "erkek_nufus": "118.273",
+                          "kadin_nufus": "112.253",
+                          "yuzolcumu": "9"
+                      },
+                      {
+                          "ilce_adi": "Bakırköy",
+                          "nufus": "222.668",
+                          "erkek_nufus": "103.677",
+                          "kadin_nufus": "118.991",
+                          "yuzolcumu": "29"
+                      },
+                      {
+                          "ilce_adi": "Silivri",
+                          "nufus": "187.621",
+                          "erkek_nufus": "106.014",
+                          "kadin_nufus": "81.607",
+                          "yuzolcumu": "858"
+                      },
+                      {
+                          "ilce_adi": "Beşiktaş",
+                          "nufus": "181.074",
+                          "erkek_nufus": "82.810",
+                          "kadin_nufus": "98.264",
+                          "yuzolcumu": "18"
+                      },
+                      {
+                          "ilce_adi": "Çatalca",
+                          "nufus": "72.966",
+                          "erkek_nufus": "37.675",
+                          "kadin_nufus": "35.291",
+                          "yuzolcumu": ""
+                      },
+                      {
+                          "ilce_adi": "Şile",
+                          "nufus": "36.516",
+                          "erkek_nufus": "18.805",
+                          "kadin_nufus": "17.711",
+                          "yuzolcumu": "1.142"
+                      },
+                      {
+                          "ilce_adi": "Adalar",
+                          "nufus": "16.119",
+                          "erkek_nufus": "8.602",
+                          "kadin_nufus": "7.517",
+                          "yuzolcumu": "11"
+                      }
+
+                    ],
+                    "kisa_bilgi": "2010 Avrupa Kültür Başkenti, tarihi 300 bin yıl öncesine uzanan, üç tarafını Marmara Denizi, Boğaziçi ve Haliç'in sardığı bir yarım ada üzerinde yer alan, Roma, Bizans, Latin ve Osmanlı Türklerine başkentlik etmiş, Türkiye'nin en kalabalık şehri İstanbul, hem tarih boyunca, hem günümüzde pek çok alanda 'başkent' özelliğini korumuştur."
                     }
         ]
  }
