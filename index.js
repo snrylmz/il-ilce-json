@@ -1,5 +1,5 @@
 $('#data-table').DataTable({
-     "ajax": "il-ilce.json",
+     "ajax": "il-ilce.json",      //  json dosyası
      "columns": [
           {"data": "il_adi"},
           {"data": "plaka_kodu"},
@@ -12,14 +12,15 @@ $('#data-table').DataTable({
           {"data": "nufus_yuzdesi_genel"},
           {"data": "ilceler.length"}
      ],
-     columnDefs: [
+     paging: false,       // dataTable sayfalamayı kapatır.
+     columnDefs: [        // dataTable tr karater sırasına göre sıralar.
           {type: 'turkish', targets: '_all'}
       ],
-     "language": {
+     "language": {        // Tr dil dosyası çağırır ve kullanır.
            "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
    },
-     "lengthMenu": [[-1], [-1]],
-     "initComplete": function(){  // dataTable yüklemesi tamamlandıktan sonra tr satırlarının içini okur ve renklendirir.
+
+     "initComplete": function(){      // dataTable yüklemesi tamamlandıktan sonra tr satırlarının içini okur ve renklendirir.
            $("tr:contains('Karadeniz')" ).css( "background-color", "#27ae60" );
            $("tr:contains('Marmara')" ).css( "background-color", "#95a5a6" );
            $("tr:contains('Ege')" ).css( "background-color", "#1abc9c" );
@@ -29,6 +30,8 @@ $('#data-table').DataTable({
            $("tr:contains('Güneydoğu Anadolu')" ).css( "background-color", "#f39c12" );
      },
   });
+
+  // json datadan gelen verileri htmlde ilgili yerlere yerleştirir.
 
 var table = $('#data-table').DataTable();
 $('#data-table tbody').on('click', 'tr', function () {
@@ -47,7 +50,7 @@ $('#data-table tbody').on('click', 'tr', function () {
         $("#kisa_bilgi").html('' + data.kisa_bilgi + '')
         $("#ilceler").html('');
         $(data.ilceler).each(function(index, ilce){
-              $("#ilceler").append('' + ilce.ilce_adi + '<br>');
+        $("#ilceler").append('' + ilce.ilce_adi + '<br>');
         });
 
 });
