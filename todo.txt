@@ -4,11 +4,11 @@
 - İl, ilçe sayıları eklenecek.
 - En kalabalık il ve ilçe bilgisi,
 - En fazla yüzölçümüne sahip il ve ilçe bilgisi,
-- En fazla kadın ve erkek nufüsa sahip il ve ilçe bilgisi eklenecek. 
-- İlk etapta il arama eklenecek.
-
+- En fazla kadın ve erkek nufüsa sahip il ve ilçe bilgisi eklenecek.
+- İlk etapta il arama eklenecek.  ++
+- Bölgelere göre kategorize edilip filtreleme eklenecek.
 
 ### 2. Faz
 
-- ilçe arama eklenecek,
+- ilçe arama eklenecek, ++
 - il ve ilçelerin merkez koordinatları baz alınarak google maps üzerinde gösterilecek.

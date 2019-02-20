@@ -20,13 +20,13 @@ $('#data-table').DataTable({
    },
      "lengthMenu": [[-1], [-1]],
      "initComplete": function(){  // dataTable yüklemesi tamamlandıktan sonra tr satırlarının içini okur ve renklendirir.
-           $("tr:contains('Karadeniz')" ).css( "background-color", "#c8e6c9" );
-           $("tr:contains('Marmara')" ).css( "background-color", "#f5f5f5" );
-           $("tr:contains('Ege')" ).css( "background-color", "#b2ebf2" );
-           $("tr:contains('İç Anadolu')" ).css( "background-color", "#fff9c4" );
-           $("tr:contains('Akdeniz')" ).css( "background-color", "#b3e5fc" );
-           $("tr:contains('Doğu Anadolu')" ).css( "background-color", "#ffe0b2" );
-           $("tr:contains('Güneydoğu Anadolu')" ).css( "background-color", "#d7ccc8" );
+           $("tr:contains('Karadeniz')" ).css( "background-color", "#27ae60" );
+           $("tr:contains('Marmara')" ).css( "background-color", "#95a5a6" );
+           $("tr:contains('Ege')" ).css( "background-color", "#1abc9c" );
+           $("tr:contains('İç Anadolu')" ).css( "background-color", "#f1c40f" );
+           $("tr:contains('Akdeniz')" ).css( "background-color", "#2980b9" );
+           $("tr:contains('Doğu Anadolu')" ).css( "background-color", "#c0392b" );
+           $("tr:contains('Güneydoğu Anadolu')" ).css( "background-color", "#f39c12" );
      },
   });
 
