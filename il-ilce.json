@@ -4139,6 +4139,157 @@
 
                     ],
                     "kisa_bilgi": "Ülkemizin en doğusunda, Ermenistan’la komşu Kars, çok eski kültürlere ev sahipliği yapmış, pek çok kıymetli halk ozanının yetiştiği önemli bir ilimiz."
+                  },
+
+                  {
+                    "il_adi": "Kastamonu",
+                    "plaka_kodu": "37",
+                    "alan_kodu": "366",
+                    "nufus": "383.373",
+                    "bolge": "Karadeniz",
+                    "yuzolcumu": "13.064",
+                    "erkek_nufus_yuzde": "49,93%",
+                    "erkek_nufus": "191.431",
+                    "kadin_nufus_yuzde": "50,07%",
+                    "kadin_nufus": "191.942",
+                    "nufus_yuzdesi_genel": "0,45%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Merkez",
+                          "nufus": "148.931",
+                          "erkek_nufus": "74.647",
+                          "kadin_nufus": "74.284",
+                          "yuzolcumu": "1.847"
+                      },
+                      {
+                          "ilce_adi": "Tosya",
+                          "nufus": "40.245",
+                          "erkek_nufus": "19.528",
+                          "kadin_nufus": "20.717",
+                          "yuzolcumu": "1.302"
+                      },
+                      {
+                          "ilce_adi": "Taşköprü",
+                          "nufus": "38.849",
+                          "erkek_nufus": "19.075",
+                          "kadin_nufus": "19.774",
+                          "yuzolcumu": "1.758"
+                      },
+                      {
+                          "ilce_adi": "Cide",
+                          "nufus": "23.329",
+                          "erkek_nufus": "11.855",
+                          "kadin_nufus": "11.474",
+                          "yuzolcumu": "652"
+                      },
+                      {
+                          "ilce_adi": "İnebolu",
+                          "nufus": "21.738",
+                          "erkek_nufus": "10.960",
+                          "kadin_nufus": "10.778",
+                          "yuzolcumu": "417"
+                      },
+                      {
+                          "ilce_adi": "Araç",
+                          "nufus": "18.863",
+                          "erkek_nufus": "9.306",
+                          "kadin_nufus": "9.557",
+                          "yuzolcumu": "1.446"
+                      },
+                      {
+                          "ilce_adi": "Bozkurt",
+                          "nufus": "9.920",
+                          "erkek_nufus": "5.002",
+                          "kadin_nufus": "4.918",
+                          "yuzolcumu": "308"
+                      },
+                      {
+                          "ilce_adi": "Daday",
+                          "nufus": "8.749",
+                          "erkek_nufus": "4.282",
+                          "kadin_nufus": "4.467",
+                          "yuzolcumu": "843"
+                      },
+                      {
+                          "ilce_adi": "Azdavay",
+                          "nufus": "7.726",
+                          "erkek_nufus": "3.924",
+                          "kadin_nufus": "3.802",
+                          "yuzolcumu": "759"
+                      },
+                      {
+                          "ilce_adi": "Çatalzeytin",
+                          "nufus": "7.035",
+                          "erkek_nufus": "3.546",
+                          "kadin_nufus": "3.489",
+                          "yuzolcumu": "272"
+                      },
+                      {
+                          "ilce_adi": "Doğanyurt",
+                          "nufus": "6.153",
+                          "erkek_nufus": "3.086",
+                          "kadin_nufus": "3.067",
+                          "yuzolcumu": "193"
+                      },
+                      {
+                          "ilce_adi": "Küre",
+                          "nufus": "6.119",
+                          "erkek_nufus": "3.147",
+                          "kadin_nufus": "2.972",
+                          "yuzolcumu": "406"
+                      },
+                      {
+                          "ilce_adi": "Pınarbaşı",
+                          "nufus": "6.020",
+                          "erkek_nufus": "3.116",
+                          "kadin_nufus": "2.904",
+                          "yuzolcumu": "546"
+                      },
+                      {
+                          "ilce_adi": "İhsangazi",
+                          "nufus": "5.469",
+                          "erkek_nufus": "2.656",
+                          "kadin_nufus": "2.813",
+                          "yuzolcumu": "445"
+                      },
+                      {
+                          "ilce_adi": "Şenpazar",
+                          "nufus": "5.002",
+                          "erkek_nufus": "2.589",
+                          "kadin_nufus": "2.413",
+                          "yuzolcumu": "252"
+                      },
+                      {
+                          "ilce_adi": "Abana",
+                          "nufus": "4.248",
+                          "erkek_nufus": "2.204",
+                          "kadin_nufus": "2.044",
+                          "yuzolcumu": "28"
+                      },
+                      {
+                          "ilce_adi": "Hanönü",
+                          "nufus": "4.156",
+                          "erkek_nufus": "2.098",
+                          "kadin_nufus": "2.058",
+                          "yuzolcumu": "417"
+                      },
+                      {
+                          "ilce_adi": "Seydiler",
+                          "nufus": "4.143",
+                          "erkek_nufus": "2.073",
+                          "kadin_nufus": "2.070",
+                          "yuzolcumu": "233"
+                      },
+                      {
+                          "ilce_adi": "Ağlı",
+                          "nufus": "3.196",
+                          "erkek_nufus": "1.594",
+                          "kadin_nufus": "1.602",
+                          "yuzolcumu": "225"
+                      }
+
+                    ],
+                    "kisa_bilgi": "Karadeniz bölgesinde bulunan Kastamonu, tarihi boyunca önemli bir medeniyetler merkezi olmuş. Bu nedenle ilde pek çok değerli tarihi eser saymak mümkün."
                     }
         ]
  }
