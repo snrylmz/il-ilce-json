@@ -3835,6 +3835,310 @@
 
                     ],
                     "kisa_bilgi": "2010 Avrupa Kültür Başkenti, tarihi 300 bin yıl öncesine uzanan, üç tarafını Marmara Denizi, Boğaziçi ve Haliç'in sardığı bir yarım ada üzerinde yer alan, Roma, Bizans, Latin ve Osmanlı Türklerine başkentlik etmiş, Türkiye'nin en kalabalık şehri İstanbul, hem tarih boyunca, hem günümüzde pek çok alanda 'başkent' özelliğini korumuştur."
+                  },
+
+
+                  {
+                    "il_adi": "İzmir",
+                    "plaka_kodu": "35",
+                    "alan_kodu": "232",
+                    "nufus": "4.320.519",
+                    "bolge": "Ege",
+                    "yuzolcumu": "11.891",
+                    "erkek_nufus_yuzde": "49,82%",
+                    "erkek_nufus": "2.152.585",
+                    "kadin_nufus_yuzde": "50,18%",
+                    "kadin_nufus": "2.167.934",
+                    "nufus_yuzdesi_genel": "5,27%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Buca",
+                          "nufus": "499.325",
+                          "erkek_nufus": "249.543",
+                          "kadin_nufus": "249.782",
+                          "yuzolcumu": "178"
+                      },
+                      {
+                          "ilce_adi": "Karabağlar",
+                          "nufus": "479.986",
+                          "erkek_nufus": "236.677",
+                          "kadin_nufus": "243.309",
+                          "yuzolcumu": "89"
+                      },
+                      {
+                          "ilce_adi": "Bornova",
+                          "nufus": "445.232",
+                          "erkek_nufus": "221.092",
+                          "kadin_nufus": "224.140",
+                          "yuzolcumu": "220"
+                      },
+                      {
+                          "ilce_adi": "Konak",
+                          "nufus": "356.563",
+                          "erkek_nufus": "174.066",
+                          "kadin_nufus": "182.497",
+                          "yuzolcumu": "24"
+                      },
+                      {
+                          "ilce_adi": "Karşıyaka",
+                          "nufus": "344.140",
+                          "erkek_nufus": "161.345",
+                          "kadin_nufus": "182.795",
+                          "yuzolcumu": "51"
+                      },
+                      {
+                          "ilce_adi": "Bayraklı",
+                          "nufus": "311.524",
+                          "erkek_nufus": "154.715",
+                          "kadin_nufus": "156.809",
+                          "yuzolcumu": "30"
+                      },
+                      {
+                          "ilce_adi": "Çiğli",
+                          "nufus": "194.525",
+                          "erkek_nufus": "96.838",
+                          "kadin_nufus": "97.687",
+                          "yuzolcumu": "139"
+                      },
+                      {
+                          "ilce_adi": "Torbalı",
+                          "nufus": "178.772",
+                          "erkek_nufus": "90.173",
+                          "kadin_nufus": "88.599",
+                          "yuzolcumu": "577"
+                      },
+                      {
+                          "ilce_adi": "Menemen",
+                          "nufus": "174.564",
+                          "erkek_nufus": "89.163",
+                          "kadin_nufus": "85.401",
+                          "yuzolcumu": "573"
+                      },
+                      {
+                          "ilce_adi": "Gaziemir",
+                          "nufus": "137.553",
+                          "erkek_nufus": "70.309",
+                          "kadin_nufus": "67.244",
+                          "yuzolcumu": "70"
+                      },
+                      {
+                          "ilce_adi": "Ödemiş",
+                          "nufus": "132.511",
+                          "erkek_nufus": "65.990",
+                          "kadin_nufus": "66.521",
+                          "yuzolcumu": "1.019"
+                      },
+                      {
+                          "ilce_adi": "Kemalpaşa",
+                          "nufus": "106.298",
+                          "erkek_nufus": "53.975",
+                          "kadin_nufus": "52.323",
+                          "yuzolcumu": "681"
+                      },
+                      {
+                          "ilce_adi": "Bergama",
+                          "nufus": "103.185",
+                          "erkek_nufus": "51.920",
+                          "kadin_nufus": "51.265",
+                          "yuzolcumu": "1.544"
+                      },
+                      {
+                          "ilce_adi": "Aliağa",
+                          "nufus": "95.392",
+                          "erkek_nufus": "52.320",
+                          "kadin_nufus": "43.072",
+                          "yuzolcumu": "379"
+                      },
+                      {
+                          "ilce_adi": "Menderes",
+                          "nufus": "93.796",
+                          "erkek_nufus": "47.316",
+                          "kadin_nufus": "46.480",
+                          "yuzolcumu": "777"
+                      },
+                      {
+                          "ilce_adi": "Tire",
+                          "nufus": "84.457",
+                          "erkek_nufus": "41.552",
+                          "kadin_nufus": "42.905",
+                          "yuzolcumu": "716"
+                      },
+                      {
+                          "ilce_adi": "Balçova",
+                          "nufus": "79.357",
+                          "erkek_nufus": "38.834",
+                          "kadin_nufus": "40.523",
+                          "yuzolcumu": "16"
+                      },
+                      {
+                          "ilce_adi": "Urla",
+                          "nufus": "66.360",
+                          "erkek_nufus": "33.397",
+                          "kadin_nufus": "32.963",
+                          "yuzolcumu": "727"
+                      },
+                      {
+                          "ilce_adi": "Narlıdere",
+                          "nufus": "66.203",
+                          "erkek_nufus": "33.765",
+                          "kadin_nufus": "32.438",
+                          "yuzolcumu": "50"
+                      },
+                      {
+                          "ilce_adi": "Dikili",
+                          "nufus": "44.172",
+                          "erkek_nufus": "22.089",
+                          "kadin_nufus": "22.083",
+                          "yuzolcumu": "534"
+                      },
+                      {
+                          "ilce_adi": "Kiraz",
+                          "nufus": "43.989",
+                          "erkek_nufus": "22.264",
+                          "kadin_nufus": "21.725",
+                          "yuzolcumu": "573"
+                      },
+                      {
+                          "ilce_adi": "Seferihisar",
+                          "nufus": "43.546",
+                          "erkek_nufus": "22.361",
+                          "kadin_nufus": "21.185",
+                          "yuzolcumu": "375"
+                      },
+                      {
+                          "ilce_adi": "Çeşme",
+                          "nufus": "43.489",
+                          "erkek_nufus": "22.041",
+                          "kadin_nufus": "21.448",
+                          "yuzolcumu": "285"
+                      },
+                      {
+                          "ilce_adi": "Bayındır",
+                          "nufus": "40.584",
+                          "erkek_nufus": "20.141",
+                          "kadin_nufus": "20.443",
+                          "yuzolcumu": "548"
+                      },
+                      {
+                          "ilce_adi": "Selçuk",
+                          "nufus": "36.360",
+                          "erkek_nufus": "18.125",
+                          "kadin_nufus": "18.235",
+                          "yuzolcumu": "317"
+                      },
+                      {
+                          "ilce_adi": "Foça",
+                          "nufus": "33.131",
+                          "erkek_nufus": "19.790",
+                          "kadin_nufus": "13.341",
+                          "yuzolcumu": "251"
+                      },
+                      {
+                          "ilce_adi": "Güzelbahçe",
+                          "nufus": "32.592",
+                          "erkek_nufus": "15.764",
+                          "kadin_nufus": "16.828",
+                          "yuzolcumu": "77"
+                      },
+                      {
+                          "ilce_adi": "Kınık",
+                          "nufus": "29.803",
+                          "erkek_nufus": "15.267",
+                          "kadin_nufus": "14.536",
+                          "yuzolcumu": "479"
+                      },
+                      {
+                          "ilce_adi": "Beydağ",
+                          "nufus": "12.507",
+                          "erkek_nufus": "6.264",
+                          "kadin_nufus": "6.243",
+                          "yuzolcumu": "172"
+                      },
+                      {
+                          "ilce_adi": "Karaburun",
+                          "nufus": "10.603",
+                          "erkek_nufus": "5.489",
+                          "kadin_nufus": "5.114",
+                          "yuzolcumu": "421"
+                      }
+
+                    ],
+                    "kisa_bilgi": "Latince adı Smyrna olan İzmir, Ege Bölgesi'nin ortasında ve İzmir Körfezi çevresinde yer alır. Konak, kentin merkez ilçesidir ve burada gezilecek, görülecek çok şey vardır."
+                  },
+
+
+                  {
+                    "il_adi": "Kars",
+                    "plaka_kodu": "36",
+                    "alan_kodu": "474",
+                    "nufus": "288.878",
+                    "bolge": "Doğu Anadolu",
+                    "yuzolcumu": "10.193",
+                    "erkek_nufus_yuzde": "51,76%",
+                    "erkek_nufus": "149.510",
+                    "kadin_nufus_yuzde": "48,24%",
+                    "kadin_nufus": "139.368",
+                    "nufus_yuzdesi_genel": "0,35%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Merkez",
+                          "nufus": "115.891",
+                          "erkek_nufus": "59.160",
+                          "kadin_nufus": "56.731",
+                          "yuzolcumu": "2.048"
+                      },
+                      {
+                          "ilce_adi": "Kağızman",
+                          "nufus": "45.936",
+                          "erkek_nufus": "23.431",
+                          "kadin_nufus": "22.505",
+                          "yuzolcumu": "1.871"
+                      },
+                      {
+                          "ilce_adi": "Sarıkamış",
+                          "nufus": "42.683",
+                          "erkek_nufus": "22.963",
+                          "kadin_nufus": "19.720",
+                          "yuzolcumu": "2.038"
+                      },
+                      {
+                          "ilce_adi": "Selim",
+                          "nufus": "23.231",
+                          "erkek_nufus": "11.953",
+                          "kadin_nufus": "11.278",
+                          "yuzolcumu": "982"
+                      },
+                      {
+                          "ilce_adi": "Digor",
+                          "nufus": "22.282",
+                          "erkek_nufus": "11.643",
+                          "kadin_nufus": "10.639",
+                          "yuzolcumu": "1092"
+                      },
+                      {
+                          "ilce_adi": "Arpaçay",
+                          "nufus": "17.373",
+                          "erkek_nufus": "9.027",
+                          "kadin_nufus": "8.346",
+                          "yuzolcumu": "1165"
+                      },
+                      {
+                          "ilce_adi": "Akyaka",
+                          "nufus": "10.985",
+                          "erkek_nufus": "5.957",
+                          "kadin_nufus": "5.028",
+                          "yuzolcumu": "417"
+                      },
+                      {
+                          "ilce_adi": "Susuz",
+                          "nufus": "10.497",
+                          "erkek_nufus": "5.376",
+                          "kadin_nufus": "5.121",
+                          "yuzolcumu": "578"
+                      }
+
+                    ],
+                    "kisa_bilgi": "Ülkemizin en doğusunda, Ermenistan’la komşu Kars, çok eski kültürlere ev sahipliği yapmış, pek çok kıymetli halk ozanının yetiştiği önemli bir ilimiz."
                     }
         ]
  }
