@@ -4290,6 +4290,204 @@
 
                     ],
                     "kisa_bilgi": "Karadeniz bölgesinde bulunan Kastamonu, tarihi boyunca önemli bir medeniyetler merkezi olmuş. Bu nedenle ilde pek çok değerli tarihi eser saymak mümkün."
+                  },
+
+                  {
+                    "il_adi": "Kayseri",
+                    "plaka_kodu": "38",
+                    "alan_kodu": "352",
+                    "nufus": "1.389.680",
+                    "bolge": "İç Anadolu",
+                    "yuzolcumu": "16.970",
+                    "erkek_nufus_yuzde": "50,13%",
+                    "erkek_nufus": "696.658",
+                    "kadin_nufus_yuzde": "49,87%",
+                    "kadin_nufus": "693.022",
+                    "nufus_yuzdesi_genel": "1,69%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Melikgazi",
+                          "nufus": "555.671",
+                          "erkek_nufus": "277.262",
+                          "kadin_nufus": "278.409",
+                          "yuzolcumu": "668"
+                      },
+                      {
+                          "ilce_adi": "Kocasinan",
+                          "nufus": "391.661",
+                          "erkek_nufus": "194.925",
+                          "kadin_nufus": "196.736",
+                          "yuzolcumu": "1.471"
+                      },
+                      {
+                          "ilce_adi": "Talas",
+                          "nufus": "157.695",
+                          "erkek_nufus": "78.580",
+                          "kadin_nufus": "79.115",
+                          "yuzolcumu": "444"
+                      },
+                      {
+                          "ilce_adi": "Develi",
+                          "nufus": "65.322",
+                          "erkek_nufus": "32.803",
+                          "kadin_nufus": "32.519",
+                          "yuzolcumu": "1.892"
+                      },
+                      {
+                          "ilce_adi": "Yahyalı",
+                          "nufus": "36.331",
+                          "erkek_nufus": "18.339",
+                          "kadin_nufus": "17.992",
+                          "yuzolcumu": "1.587"
+                      },
+                      {
+                          "ilce_adi": "Bünyan",
+                          "nufus": "31.497",
+                          "erkek_nufus": "17.561",
+                          "kadin_nufus": "13.936",
+                          "yuzolcumu": "1.210"
+                      },
+                      {
+                          "ilce_adi": "Pınarbaşı",
+                          "nufus": "26.911",
+                          "erkek_nufus": "13.993",
+                          "kadin_nufus": "12.918",
+                          "yuzolcumu": "3.418"
+                      },
+                      {
+                          "ilce_adi": "Tomarza",
+                          "nufus": "22.808",
+                          "erkek_nufus": "11.617",
+                          "kadin_nufus": "11.191",
+                          "yuzolcumu": "1.405"
+                      },
+                      {
+                          "ilce_adi": "Yeşilhisar",
+                          "nufus": "17.525",
+                          "erkek_nufus": "8.821",
+                          "kadin_nufus": "8.704",
+                          "yuzolcumu": "913"
+                      },
+                      {
+                          "ilce_adi": "Sarıoğlan",
+                          "nufus": "16.938",
+                          "erkek_nufus": "8.520",
+                          "kadin_nufus": "8.418",
+                          "yuzolcumu": "642"
+                      },
+                      {
+                          "ilce_adi": "Hacılar",
+                          "nufus": "12.426",
+                          "erkek_nufus": "6.265",
+                          "kadin_nufus": "6.161",
+                          "yuzolcumu": "187"
+                      },
+                      {
+                          "ilce_adi": "Sarız",
+                          "nufus": "10.098",
+                          "erkek_nufus": "5.155",
+                          "kadin_nufus": "4.943",
+                          "yuzolcumu": "1.173"
+                      },
+                      {
+                          "ilce_adi": "Felahiye",
+                          "nufus": "6.602",
+                          "erkek_nufus": "3.394",
+                          "kadin_nufus": "3.208",
+                          "yuzolcumu": "444"
+                      },
+                      {
+                          "ilce_adi": "Akkışla",
+                          "nufus": "6.429",
+                          "erkek_nufus": "3.252",
+                          "kadin_nufus": "3.177",
+                          "yuzolcumu": "371"
+                      },
+                      {
+                          "ilce_adi": "Özvatan",
+                          "nufus": "5.413",
+                          "erkek_nufus": "2.788",
+                          "kadin_nufus": "2.625",
+                          "yuzolcumu": "270"
+                      }
+
+                    ],
+                    "kisa_bilgi": "İç Anadolu'nun güney bölümü ile Toros Dağlarının birbirine yaklaştığı, Orta Kızılırmak bölümünde yer alan Kayseri, değişik uygarlıkların kalıntılarına ev sahipliği yapan önemli bir ilimizdir."
+                  },
+
+                  {
+                    "il_adi": "Kırklareli",
+                    "plaka_kodu": "39",
+                    "alan_kodu": "288",
+                    "nufus": "360.860",
+                    "bolge": "Marmara",
+                    "yuzolcumu": "6.459",
+                    "erkek_nufus_yuzde": "51,32%",
+                    "erkek_nufus": "185.181",
+                    "kadin_nufus_yuzde": "48,68%",
+                    "kadin_nufus": "175.679",
+                    "nufus_yuzdesi_genel": "0,44%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Lüleburgaz",
+                          "nufus": "148.037",
+                          "erkek_nufus": "74.838",
+                          "kadin_nufus": "73.199",
+                          "yuzolcumu": "1.016"
+                      },
+                      {
+                          "ilce_adi": "Merkez",
+                          "nufus": "102.909",
+                          "erkek_nufus": "53.217",
+                          "kadin_nufus": "49.692",
+                          "yuzolcumu": "1.623"
+                      },
+                      {
+                          "ilce_adi": "Babaeski",
+                          "nufus": "48.391",
+                          "erkek_nufus": "25.018",
+                          "kadin_nufus": "23.373",
+                          "yuzolcumu": "670"
+                      },
+                      {
+                          "ilce_adi": "Vize",
+                          "nufus": "28.122",
+                          "erkek_nufus": "14.348",
+                          "kadin_nufus": "13.774",
+                          "yuzolcumu": "1.090"
+                      },
+                      {
+                          "ilce_adi": "Pınarhisar",
+                          "nufus": "18.375",
+                          "erkek_nufus": "9.745",
+                          "kadin_nufus": "8.630",
+                          "yuzolcumu": "518"
+                      },
+                      {
+                          "ilce_adi": "Demirköy",
+                          "nufus": "9.093",
+                          "erkek_nufus": "4.983",
+                          "kadin_nufus": "4.110",
+                          "yuzolcumu": "893"
+                      },
+                      {
+                          "ilce_adi": "Pehlivanköy",
+                          "nufus": "3.565",
+                          "erkek_nufus": "1.799",
+                          "kadin_nufus": "1.766",
+                          "yuzolcumu": "104"
+                      },
+                      {
+                          "ilce_adi": "Kofçaz",
+                          "nufus": "2.368",
+                          "erkek_nufus": "1.233",
+                          "kadin_nufus": "1.135",
+                          "yuzolcumu": "545"
+                      }
+
+
+                    ],
+                    "kisa_bilgi": "Marmara bölgesinin Trakya kesiminde bulunan Kırklareli, sınır ili konumunda olup, Bulgaristan’la komşudur. 1924 yılından bu yana il statüsünde bulunan Kırklareli, Anadolu ve Avrupa arasında geçiş konumunda bulunduğu için pek çok arkeolojik, doğal ve tarihi sit alanlarına sahip."
                     }
         ]
  }
