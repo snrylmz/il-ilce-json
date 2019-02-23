@@ -29,7 +29,10 @@ $('#data-table').DataTable({
            $("tr:contains('Doğu Anadolu')" ).css( "background-color", "#c0392b" );
            $("tr:contains('Güneydoğu Anadolu')" ).css( "background-color", "#f39c12" );
      },
+
   });
+
+
 
   // json datadan gelen verileri htmlde ilgili yerlere yerleştirir.
 
@@ -69,6 +72,15 @@ $('#data-table tbody').on('click', 'tr', function () {
                 color = '#' + parts.join('');
             }
 });
+$(".button-filter").on('click', 'a', function(){
+      table.search($(this).text()).draw();
+      console.log($(this).text());
+});
+$("button").click(function(){
+  table.search( '' ).columns().search( '' ).draw();
+  console.log('tık');
+});
+
 $(".city-details img").click(function(){
       $(".city-details").css("right","-550px")
 })
