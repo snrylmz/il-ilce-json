@@ -1,5 +1,5 @@
 $('#data-table').DataTable({
-     "ajax": "il-ilce.json",      //  json dosyası
+     "ajax": "js/il-ilce.json",      //  json dosyası
      "columns": [
           {"data": "il_adi"},
           {"data": "plaka_kodu"},
@@ -35,13 +35,14 @@ $('#data-table').DataTable({
 
 var table = $('#data-table').DataTable();
 $('#data-table tbody').on('click', 'tr', function () {
+    $(".city-details").css("right","0px")
     var data = table.row(this).data();
         $("#il_adi").html('' + data.il_adi + '');
         $("#plaka_kodu").html('' + data.plaka_kodu + '')
         $("#alan_kodu").html('' + data.alan_kodu + '')
         $("#nufus").html('' + data.nufus + '')
         $("#bolge").html('' + data.bolge + '')
-        $("#yuzolcumu").html('' + data.il_adi + '')
+        $("#yuzolcumu").html('' + data.yuzolcumu + '&nbsp;km2')
         $("#erkek_nufus_yuzde").html('' + data.erkek_nufus_yuzde + '')
         $("#erkek_nufus").html('' + data.erkek_nufus + '')
         $("#kadin_nufus").html('' + data.kadin_nufus_yuzde + '')
@@ -50,7 +51,24 @@ $('#data-table tbody').on('click', 'tr', function () {
         $("#kisa_bilgi").html('' + data.kisa_bilgi + '')
         $("#ilceler").html('');
         $(data.ilceler).each(function(index, ilce){
-        $("#ilceler").append('' + ilce.ilce_adi + '<br>');
+          $("#ilceler").append(' ' + ilce.ilce_adi + ',');
         });
+            var color = '';
+            var x = $(this).css('background-color');
+            hexc(x);
+            $(".city-details").css("background-color",color)
 
+
+            function hexc(colorval) {
+                var parts = colorval.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
+                delete(parts[0]);
+                for (var i = 1; i <= 3; ++i) {
+                    parts[i] = parseInt(parts[i]).toString(16);
+                    if (parts[i].length == 1) parts[i] = '0' + parts[i];
+                }
+                color = '#' + parts.join('');
+            }
 });
+$(".city-details img").click(function(){
+      $(".city-details").css("right","-550px")
+})

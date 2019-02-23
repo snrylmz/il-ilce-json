@@ -1,0 +1,34 @@
+body{
+  overflow-x: hidden;
+}
+#data-table tr:hover{
+  cursor: pointer;
+}
+span{margin-left: 1.5em}
+span:first-child{margin-left: 0em}
+
+.city-details{
+  position: fixed;
+  width: 500px;
+  height: 80%;
+  top: 10%;
+  right: -550px;
+  border-radius: 20px 0px 0px 10px;
+  transition: all 1s ease;
+  font-size: .9rem;
+  box-shadow: 0px 8px 40px 4px rgb(0, 0, 0)
+}
+.city-details-close{
+  position: relative;
+}
+.city-details-close img{
+  position: absolute;
+  top: 10px;
+  right: 10px
+}
+.city-details-close:hover{
+  cursor: pointer;
+}
+#sehirDetay{
+  padding: 10px
+}
