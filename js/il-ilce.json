@@ -5118,6 +5118,239 @@
 
                     ],
                     "kisa_bilgi": "Doğu Anadolu Bölgesi'nin Yukarı Fırat Bölümü'nde yer alan Malatya, kayısılarıyla dünya çapında bir üne sahiptir. Bu vesileyle her sene Malatya Fuarı ve Uluslararası Kültür, Sanat ve Kayısı Festivali yapılmaktadır."
+                  },
+
+
+                  {
+                    "il_adi": "Manisa",
+                    "plaka_kodu": "45",
+                    "alan_kodu": "236",
+                    "nufus": "1.429.643",
+                    "bolge": "Ege",
+                    "yuzolcumu": "13.339",
+                    "erkek_nufus_yuzde": "50,39%",
+                    "erkek_nufus": "720.337",
+                    "kadin_nufus_yuzde": "49,61%",
+                    "kadin_nufus": "709.306",
+                    "nufus_yuzdesi_genel": "1,74%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Yunusemre",
+                          "nufus": "239.324",
+                          "erkek_nufus": "122.116",
+                          "kadin_nufus": "117.208",
+                          "yuzolcumu": "823"
+                      },
+                      {
+                          "ilce_adi": "Akhisar",
+                          "nufus": "171.381",
+                          "erkek_nufus": "86.195",
+                          "kadin_nufus": "85.186",
+                          "yuzolcumu": "1.645"
+                      },
+                      {
+                          "ilce_adi": "Şehzadeler",
+                          "nufus": "171.116",
+                          "erkek_nufus": "87.744",
+                          "kadin_nufus": "83.372",
+                          "yuzolcumu": "515"
+                      },
+                      {
+                          "ilce_adi": "Turgutlu",
+                          "nufus": "163.223",
+                          "erkek_nufus": "82.133",
+                          "kadin_nufus": "81.090",
+                          "yuzolcumu": "549"
+                      },
+                      {
+                          "ilce_adi": "Salihli",
+                          "nufus": "161.562",
+                          "erkek_nufus": "80.022",
+                          "kadin_nufus": "81.540",
+                          "yuzolcumu": "1.359"
+                      },
+                      {
+                          "ilce_adi": "Soma",
+                          "nufus": "108.981",
+                          "erkek_nufus": "54.832",
+                          "kadin_nufus": "54.149",
+                          "yuzolcumu": "820"
+                      },
+                      {
+                          "ilce_adi": "Alaşehir",
+                          "nufus": "104.507",
+                          "erkek_nufus": "53.824",
+                          "kadin_nufus": "50.683",
+                          "yuzolcumu": "971"
+                      },
+                      {
+                          "ilce_adi": "Saruhanlı",
+                          "nufus": "54.660",
+                          "erkek_nufus": "27.388",
+                          "kadin_nufus": "27.272",
+                          "yuzolcumu": "771"
+                      },
+                      {
+                          "ilce_adi": "Kula",
+                          "nufus": "44.410",
+                          "erkek_nufus": "21.910",
+                          "kadin_nufus": "22.500",
+                          "yuzolcumu": "981"
+                      },
+                      {
+                          "ilce_adi": "Demirci",
+                          "nufus": "41.135",
+                          "erkek_nufus": "19.424",
+                          "kadin_nufus": "21.711",
+                          "yuzolcumu": "1.321"
+                      },
+                      {
+                          "ilce_adi": "Kırıkağaç",
+                          "nufus": "39.790",
+                          "erkek_nufus": "20.418",
+                          "kadin_nufus": "19.372",
+                          "yuzolcumu": "541"
+                      },
+                      {
+                          "ilce_adi": "Sarıgöl",
+                          "nufus": "35.957",
+                          "erkek_nufus": "17.831",
+                          "kadin_nufus": "18.126",
+                          "yuzolcumu": "432"
+                      },
+                      {
+                          "ilce_adi": "Gördes",
+                          "nufus": "28.182",
+                          "erkek_nufus": "13.832",
+                          "kadin_nufus": "14.350",
+                          "yuzolcumu": "902"
+                      },
+                      {
+                          "ilce_adi": "Selendi",
+                          "nufus": "20.291",
+                          "erkek_nufus": "10.136",
+                          "kadin_nufus": "10.155",
+                          "yuzolcumu": "726"
+                      },
+                      {
+                          "ilce_adi": "Ahmetli",
+                          "nufus": "16.530",
+                          "erkek_nufus": "8.299",
+                          "kadin_nufus": "8.231",
+                          "yuzolcumu": "227"
+                      },
+                      {
+                          "ilce_adi": "Gölmarmara",
+                          "nufus": "15.247",
+                          "erkek_nufus": "7.660",
+                          "kadin_nufus": "7.587",
+                          "yuzolcumu": "310"
+                      },
+                      {
+                          "ilce_adi": "Köprübaşı",
+                          "nufus": "13.347",
+                          "erkek_nufus": "6.573",
+                          "kadin_nufus": "6.774",
+                          "yuzolcumu": "447"
+                      }
+                    ],
+                    "kisa_bilgi": "Ege bölgesinin ortasında bulunan, 2012 yılında büyükşehir unvanını alan Manisa, bölgenin İzmir'den sonra ikinci büyük sanayi ve ticaret merkezidir. "
+                  },
+
+                  {
+                    "il_adi": "Kahramanmaraş",
+                    "plaka_kodu": "46",
+                    "alan_kodu": "344",
+                    "nufus": "1.144.851",
+                    "bolge": "Güneydoğu Anadolu",
+                    "yuzolcumu": "14.520",
+                    "erkek_nufus_yuzde": "50,70%",
+                    "erkek_nufus": "580.410",
+                    "kadin_nufus_yuzde": "49,30%",
+                    "kadin_nufus": "564.441",
+                    "nufus_yuzdesi_genel": "1,40%",
+                    "ilceler": [
+                      {
+                          "ilce_adi": "Onikişubat",
+                          "nufus": "418.379",
+                          "erkek_nufus": "209.407",
+                          "kadin_nufus": "208.972",
+                          "yuzolcumu": "2.429"
+                      },
+                      {
+                          "ilce_adi": "Dulkadiroğlu",
+                          "nufus": "222.938",
+                          "erkek_nufus": "114.173",
+                          "kadin_nufus": "108.765",
+                          "yuzolcumu": "1.176"
+                      },
+                      {
+                          "ilce_adi": "Elbistan",
+                          "nufus": "142.548",
+                          "erkek_nufus": "72.886",
+                          "kadin_nufus": "69.662",
+                          "yuzolcumu": "2.201"
+                      },
+                      {
+                          "ilce_adi": "Afşin",
+                          "nufus": "81.423",
+                          "erkek_nufus": "41.297",
+                          "kadin_nufus": "40.126",
+                          "yuzolcumu": "1.502"
+                      },
+                      {
+                          "ilce_adi": "Türkoğlu",
+                          "nufus": "73.770",
+                          "erkek_nufus": "37.971",
+                          "kadin_nufus": "",
+                          "yuzolcumu": "660"
+                      },
+                      {
+                          "ilce_adi": "Pazarcık",
+                          "nufus": "68.838",
+                          "erkek_nufus": "34.635",
+                          "kadin_nufus": "34.203",
+                          "yuzolcumu": "1.253"
+                      },
+                      {
+                          "ilce_adi": "Göksun",
+                          "nufus": "55.985",
+                          "erkek_nufus": "28.378",
+                          "kadin_nufus": "27.607",
+                          "yuzolcumu": "1.942"
+                      },
+                      {
+                          "ilce_adi": "Andırın",
+                          "nufus": "33.193",
+                          "erkek_nufus": "16.929",
+                          "kadin_nufus": "16.264",
+                          "yuzolcumu": "1.202"
+                      },
+                      {
+                          "ilce_adi": "Çağlayancerit",
+                          "nufus": "23.346",
+                          "erkek_nufus": "11.976",
+                          "kadin_nufus": "11.370",
+                          "yuzolcumu": "470"
+                      },
+                      {
+                          "ilce_adi": "Nurhak",
+                          "nufus": "12.592",
+                          "erkek_nufus": "6.514",
+                          "kadin_nufus": "6.078",
+                          "yuzolcumu": "1.028"
+                      },
+                      {
+                          "ilce_adi": "Ekinözü",
+                          "nufus": "11.839",
+                          "erkek_nufus": "6.244",
+                          "kadin_nufus": "5.595",
+                          "yuzolcumu": "656"
+                      }
+
+
+                    ],
+                    "kisa_bilgi": "2012 yılında Büyükşehir unvanı alan, dövme dondurmasıyla dünyaca meşhur Kahramanmaraş’a, Kurtuluş Savaşı’ndaki direnişi nedeniyle İstiklal Madalyası verilmiştir. "
                     }
         ]
  }
