@@ -18,9 +18,9 @@ $('#data-table').DataTable({
       ],
      "language": {        // Tr dil dosyası çağırır ve kullanır.
            "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Turkish.json"
-   },
-
-     "initComplete": function(){      // dataTable yüklemesi tamamlandıktan sonra tr satırlarının içini okur ve renklendirir.
+      },
+      "order": [[ 1, "asc" ]],
+      "initComplete": function(){      // dataTable yüklemesi tamamlandıktan sonra tr satırlarının içini okur ve renklendirir.
            $("tr:contains('Karadeniz')" ).css( "background-color", "#27ae60" );
            $("tr:contains('Marmara')" ).css( "background-color", "#95a5a6" );
            $("tr:contains('Ege')" ).css( "background-color", "#1abc9c" );
