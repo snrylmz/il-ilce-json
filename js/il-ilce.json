@@ -6128,6 +6128,145 @@
                         }
                       ],
                       "kisa_bilgi": "Marmara Bölgesi'nin Çatalca-Kocaeli bölümünde yer alan Sakarya, önemli kara ve demiryollarının kavşak noktasında bulunuyor."
+                    },
+
+
+
+                    {
+                      "il_adi": "Samsun",
+                      "plaka_kodu": "55",
+                      "alan_kodu": "362",
+                      "nufus": "1.335.716",
+                      "bolge": "Karadeniz",
+                      "yuzolcumu": "9.725",
+                      "erkek_nufus_yuzde": "49,57%",
+                      "erkek_nufus": "662.086",
+                      "kadin_nufus_yuzde": "50,43%",
+                      "kadin_nufus": "673.630",
+                      "nufus_yuzdesi_genel": "1,23%",
+                      "ilceler": [
+                        {
+                            "ilce_adi": "İlkadım",
+                            "nufus": "332.230",
+                            "erkek_nufus": "164.350",
+                            "kadin_nufus": "167.880",
+                            "yuzolcumu": "155"
+                        },
+                        {
+                            "ilce_adi": "Atakum",
+                            "nufus": "202.618",
+                            "erkek_nufus": "98.360",
+                            "kadin_nufus": "104.258",
+                            "yuzolcumu": "351"
+                        },
+                        {
+                            "ilce_adi": "Bafra",
+                            "nufus": "142.210",
+                            "erkek_nufus": "70.503",
+                            "kadin_nufus": "71.707",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Çarşamba",
+                            "nufus": "138.840",
+                            "erkek_nufus": "69.474",
+                            "kadin_nufus": "69.366",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Canik",
+                            "nufus": "97.564",
+                            "erkek_nufus": "48.885",
+                            "kadin_nufus": "48.679",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Vezirköprü",
+                            "nufus": "95.569",
+                            "erkek_nufus": "47.158",
+                            "kadin_nufus": "48.411",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Terme",
+                            "nufus": "72.354",
+                            "erkek_nufus": "35.848",
+                            "kadin_nufus": "36.506",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Tekkeköy",
+                            "nufus": "52.258",
+                            "erkek_nufus": "26.229",
+                            "kadin_nufus": "26.029",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Havza",
+                            "nufus": "40.194",
+                            "erkek_nufus": "19.783",
+                            "kadin_nufus": "20.411",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "19 Mayıs",
+                            "nufus": "26.337",
+                            "erkek_nufus": "13.214",
+                            "kadin_nufus": "13.123",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Alaçam",
+                            "nufus": "25.854",
+                            "erkek_nufus": "12.880",
+                            "kadin_nufus": "12.974",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Salıpazarı",
+                            "nufus": "22.923",
+                            "erkek_nufus": "11.778",
+                            "kadin_nufus": "11.145",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Ayvacık",
+                            "nufus": "21.847",
+                            "erkek_nufus": "11.326",
+                            "kadin_nufus": "10.521",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Kavak",
+                            "nufus": "21.692",
+                            "erkek_nufus": "10.874",
+                            "kadin_nufus": "10.818",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Asarcık",
+                            "nufus": "17.628",
+                            "erkek_nufus": "8.809",
+                            "kadin_nufus": "8.819",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Ladik",
+                            "nufus": "16.734",
+                            "erkek_nufus": "8.243",
+                            "kadin_nufus": "8.491",
+                            "yuzolcumu": ""
+                        },
+                        {
+                            "ilce_adi": "Yakakent",
+                            "nufus": "8.864",
+                            "erkek_nufus": "4.372",
+                            "kadin_nufus": "4.492",
+                            "yuzolcumu": ""
+                        }
+
+                      ],
+                      "kisa_bilgi": "Orta Karadeniz bölümünde yer alan ve Karadeniz bölgesinin en kalabalık şehri olan Samsun, 1993 yılından bu yana büyükşehir unvanına sahiptir. İl ayrıca Mustafa Kemal Atatürk'ün 19 Mayıs 1919'da Milli Mücadele’yi başlatmak üzere ilk adımı attığı yer olarak tarihimizde de çok önemli bir yere sahiptir."
                       }
         ]
  }
