@@ -5,37 +5,40 @@
  * alan kodu
  * nüfus bilgisi
  * bölgesi
- * yüzöçlümü
+ * yüz ölçümü
+ * nüfus artışı (yeni)
  * erkek, kadın nüfusu
  * erkek, kadın nüfus oranı
  * genel nüfusa oranı
  * kısa özet bilgi
- * ilceleri 
+ * ilceler
+    * plaka kodu (Yeni)
+    * ilçe kodu (Yeni)
+    * il adı (Yeni)
     * ilce adı 
     * nüfus 
     * erkek nüfus 
     * kadın nüfus 
-    * yüzölçümü 
     
  verileri json çıktısı olarak sunulmuştur.   
     
-Bilgiler güncel olmayabilir; <br>
-Nüfus bilgileri https://www.nufusu.com/ adresinden alınmıştır <br>
+
+Nüfus bilgileri 06.02.2023 tarihinde yayımlanan Adrese Dayalı Nüfus Kayıt Sistemi (ADNS) 2022 verileridir. <br>
 Yüzölçümü bilgileri https://www.harita.gov.tr/images/urun/il_ilce_alanlari.pdf adresinden alınmıştır
 
 
 ## Örnek json çıktısı
 
 ```json
-{
-  "data": [
+ "data": [
     {
       "il_adi": "Adana",
       "plaka_kodu": " 01",
       "alan_kodu": "0322",
-      "nufus": "2.220.125",
+      "nufus": "2.274.106",
       "bolge": "Akdeniz",
       "yuzolcumu": "13.844",
+      "nufus_artisi": "4,7%",
       "erkek_nufus_yuzde": "49.15%",
       "erkek_nufus": "1.106.811",
       "kadin_nufus_yuzde": "50.15%",
@@ -43,113 +46,159 @@ Yüzölçümü bilgileri https://www.harita.gov.tr/images/urun/il_ilce_alanlari.
       "nufus_yuzdesi_genel": "2,71%",
       "ilceler": [
         {
-          "ilce_adi": "Aladağ",
-          "nufus": "16.653",
-          "erkek_nufus": "8.561",
-          "kadin_nufus": "8.092",
-          "yuzolcumu": "1.340"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1757",
+          "il_adi": "ADANA",
+          "ilce_adi": "ALADAĞ",
+          "nufus": "15.855",
+          "erkek_nufus": "8.194",
+          "kadin_nufus": "7.661"
         },
         {
-          "ilce_adi": "Seyhan",
-          "nufus": "793.480",
-          "erkek_nufus": "393.872",
-          "kadin_nufus": "399.608",
-          "yuzolcumu": "444"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1219",
+          "il_adi": "ADANA",
+          "ilce_adi": "CEYHAN",
+          "nufus": "159.955",
+          "erkek_nufus": "80.523",
+          "kadin_nufus": "79.432"
         },
         {
-          "ilce_adi": "Yüreğir",
-          "nufus": "415.198",
-          "erkek_nufus": "208.709",
-          "kadin_nufus": "206.489",
-          "yuzolcumu": "835"
+          "plaka_kodu": "1",
+          "ilce_kodu": "2033",
+          "il_adi": "ADANA",
+          "ilce_adi": "ÇUKUROVA",
+          "nufus": "389.319",
+          "erkek_nufus": "187.172",
+          "kadin_nufus": "202.147"
         },
         {
-          "ilce_adi": "Çukurova",
-          "nufus": "365.735",
-          "erkek_nufus": "176.561",
-          "kadin_nufus": "189.174",
-          "yuzolcumu": "250"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1329",
+          "il_adi": "ADANA",
+          "ilce_adi": "FEKE",
+          "nufus": "16.072",
+          "erkek_nufus": "8.395",
+          "kadin_nufus": "7.677"
         },
         {
-          "ilce_adi": "Sarıçam",
-          "nufus": "173.154",
-          "erkek_nufus": "88.404",
-          "kadin_nufus": "84.750",
-          "yuzolcumu": "770"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1806",
+          "il_adi": "ADANA",
+          "ilce_adi": "İMAMOĞLU",
+          "nufus": "27.399",
+          "erkek_nufus": "13.867",
+          "kadin_nufus": "13.532"
         },
         {
-          "ilce_adi": "Ceyhan",
-          "nufus": "160.474",
-          "erkek_nufus": "80.485",
-          "kadin_nufus": "79.989",
-          "yuzolcumu": "1.426"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1437",
+          "il_adi": "ADANA",
+          "ilce_adi": "KARAİSALI",
+          "nufus": "21.967",
+          "erkek_nufus": "11.275",
+          "kadin_nufus": "10.692"
         },
         {
-          "ilce_adi": "Kozan",
-          "nufus": "130.495",
-          "erkek_nufus": "65.644",
-          "kadin_nufus": "64.851",
-          "yuzolcumu": "1.903"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1443",
+          "il_adi": "ADANA",
+          "ilce_adi": "KARATAŞ",
+          "nufus": "23.321",
+          "erkek_nufus": "11.940",
+          "kadin_nufus": "11.381"
         },
         {
-          "ilce_adi": "İmamoğlu",
-          "nufus": "28.239",
-          "erkek_nufus": "14.140",
-          "kadin_nufus": "14.099",
-          "yuzolcumu": "445"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1486",
+          "il_adi": "ADANA",
+          "ilce_adi": "KOZAN",
+          "nufus": "132.320",
+          "erkek_nufus": "66.723",
+          "kadin_nufus": "65.597"
         },
         {
-          "ilce_adi": "Karataş",
-          "nufus": "24.559",
-          "erkek_nufus": "12.516",
-          "kadin_nufus": "12.043",
-          "yuzolcumu": "862"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1580",
+          "il_adi": "ADANA",
+          "ilce_adi": "POZANTI",
+          "nufus": "20.005",
+          "erkek_nufus": "10.410",
+          "kadin_nufus": "9.595"
         },
         {
-          "ilce_adi": "Karaisalı",
-          "nufus": "22.308",
-          "erkek_nufus": "11.397",
-          "kadin_nufus": "10.911",
-          "yuzolcumu": "1.165"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1588",
+          "il_adi": "ADANA",
+          "ilce_adi": "SAİMBEYLİ",
+          "nufus": "14.030",
+          "erkek_nufus": "7.384",
+          "kadin_nufus": "6.646"
         },
         {
-          "ilce_adi": "Pozantı",
-          "nufus": "20.683",
-          "erkek_nufus": "10.820",
-          "kadin_nufus": "9.863",
-          "yuzolcumu": "899"
+          "plaka_kodu": "1",
+          "ilce_kodu": "2032",
+          "il_adi": "ADANA",
+          "ilce_adi": "SARIÇAM",
+          "nufus": "208.227",
+          "erkek_nufus": "106.664",
+          "kadin_nufus": "101.563"
         },
         {
-          "ilce_adi": "Yumurtalık",
-          "nufus": "18.587",
-          "erkek_nufus": "9.420",
-          "kadin_nufus": "9.167",
-          "yuzolcumu": "447"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1104",
+          "il_adi": "ADANA",
+          "ilce_adi": "SEYHAN",
+          "nufus": "792.536",
+          "erkek_nufus": "394.736",
+          "kadin_nufus": "397.800"
         },
         {
-          "ilce_adi": "Tufanbeyli",
-          "nufus": "17.667",
-          "erkek_nufus": "9.123",
-          "kadin_nufus": "8.544",
-          "yuzolcumu": "851"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1687",
+          "il_adi": "ADANA",
+          "ilce_adi": "TUFANBEYLİ",
+          "nufus": "16.660",
+          "erkek_nufus": "8.640",
+          "kadin_nufus": "8.020"
         },
         {
-          "ilce_adi": "Feke",
-          "nufus": "17.555",
-          "erkek_nufus": "9.151",
-          "kadin_nufus": "8.404",
-          "yuzolcumu": "1.218"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1734",
+          "il_adi": "ADANA",
+          "ilce_adi": "YUMURTALIK",
+          "nufus": "18.653",
+          "erkek_nufus": "10.135",
+          "kadin_nufus": "8.518"
         },
         {
-          "ilce_adi": "Saimbeyli",
-          "nufus": "15.338",
-          "erkek_nufus": "8.008",
-          "kadin_nufus": "7.330",
-          "yuzolcumu": "989"
+          "plaka_kodu": "1",
+          "ilce_kodu": "1748",
+          "il_adi": "ADANA",
+          "ilce_adi": "YÜREĞİR",
+          "nufus": "407.054",
+          "erkek_nufus": "204.804",
+          "kadin_nufus": "202.250"
         }
       ],
       "kisa_bilgi": "Ülkenin en büyük şehirlerinden biri olan Adana, Toros dağlarının güneyinde bulunan ve Mersin, Osmaniye, Hatay illerini içine alan Çukurova'nın merkezinde, Seyhan nehri üzerinde yer alır"
-    },
+    }
 ```
+
+> ## [1.0.1] (08.02.2023)
+>
+
+>
+> **Eklenenler:**
+>
+> - İl ve ilçe nüfusları **2022** verileri ile güncellenmiştir
+> - İller bazında **Nüfus Artış Oranı** eklenmiştir.
+> - İlçeler bazında **Plaka Kodu, İlçe Kodu, İl Adı** eklenmiştir.
+>
+> **Kaldırılanlar:**
+>
+> - İlçeler bazında yüz ölçüm değerleri kaldırılmıştır.
+
+
 ## DEMO
 [Demo](https://www.senerov.com/projects/tr-il-ilce/)
