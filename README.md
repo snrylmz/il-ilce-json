@@ -201,4 +201,4 @@ Yüzölçümü bilgileri https://www.harita.gov.tr/images/urun/il_ilce_alanlari.
 
 
 ## DEMO
-[Demo](https://www.senerov.com/projects/tr-il-ilce/)
+[Demo](http://dev.senerov.com/projects/tr-il-ilce/)
